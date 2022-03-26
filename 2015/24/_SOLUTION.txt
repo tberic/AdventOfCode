@@ -1,0 +1,7 @@
+1: 11266889531
+2: 77387711
+
+u 1 je min broj paketa u prvoj grupi 6
+u 2 je min broj paketa u prvoj grupi 5
+
+u 1-6 određujemo min QE koji se postiže za sve konfiguracije od n paketa (n=6 u 1, n=5 u 2)

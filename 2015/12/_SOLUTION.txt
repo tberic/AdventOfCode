@@ -1,0 +1,3 @@
+1: 191164
+2: 87842
+nažalost, input-reduced.txt sam generirao ručno :(
