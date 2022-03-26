@@ -1,0 +1,3 @@
+1: 12315
+2: 479008875
+(2: analiziram kod do linije s "tgl c", kako se promijeni kod iza te linije i koja je vrijednost registara kad se konačno sama ta linija promijeni. Nakon toga pokrenem program samo s modificiranim kodom iza "tgl" linije i početnim vrijednostima registara koje se dobiju prelaskom te linije)

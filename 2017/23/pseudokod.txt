@@ -1,0 +1,12 @@
+(za slučaj kad je na početku a=1)
+b = 109900, c = 126900
+
+for b=109900..126900 step 17
+	f = 1
+	for d=2..b:
+		for e=2..b:
+			if d*e==b:
+				f = 0
+	
+	if f == 0: 
+		h += 1

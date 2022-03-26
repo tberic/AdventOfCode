@@ -1,0 +1,4 @@
+1: 9409
+2: 913
+
+za a=1 algoritam broji koliko ima složenih brojeva u range(109900, 126900+1, 17), to je vrijednost registra 'h' na kraju

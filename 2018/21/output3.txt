@@ -1,0 +1,15 @@
+f = 0
+do: 
+	e = f | 65536
+	f = 13284195
+	while True: 
+		d = e & 255
+		f = f+d
+		f = f & 16777215
+		f *= 65899
+		f = f & 16777215
+		if e < 256:
+			break
+		e = floor(e/256)
+		
+while f != a:

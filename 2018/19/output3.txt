@@ -1,0 +1,21 @@
+goto 14
+f = 1
+e = 1
+c = f*e
+if c==b:
+	a += f
+e += 1
+if e<=b:
+	goto 4
+f += 1
+if f<=b:
+	goto 3
+exit
+b = 19*11*(b+2)**2 + 22*(c+4) + 19
+c = 22*(c+4) + 19
+jmp a+1
+goto 2
+c = (27*28+29)*30*14*32
+b += c
+a = 0
+goto 2

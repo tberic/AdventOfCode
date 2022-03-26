@@ -1,0 +1,4 @@
+1: 16530
+2: 3313
+
+binary search the boost in 2nd part, not that hard (answer is BOOST = 42)

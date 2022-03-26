@@ -1,0 +1,4 @@
+1: 326
+2: 142473501
+
+used a z3 solver for part2 (even though I don't understand it 100%)

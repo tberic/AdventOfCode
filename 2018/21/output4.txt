@@ -1,0 +1,23 @@
+f = 0
+do: 
+	e = f | 65536
+	f = 13284195
+	while true: 
+		d = e & 255
+		f += d
+		f &= 16777215
+		f *= 65899
+		f &= 16777215
+		if e < 256:
+			break
+		
+		d = 0
+		while true: 
+			c = d+1
+			c *= 256
+			if c > e
+				break
+			d += 1
+
+		e = d
+while f!=a:

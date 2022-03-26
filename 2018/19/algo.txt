@@ -1,0 +1,16 @@
+if a == 0:
+	b = 943
+	c = 107
+
+if a == 1:
+	c = 10550400
+	b = 10551343
+	a = 0
+
+while True:
+	for f in range(1, b+1):
+		for e in range(1, b+1):
+			if f*e==b:
+				a += f
+				
+# na kraju je a = zbroj djelitelja od b

@@ -1,0 +1,10 @@
+#start with a=479001600, b=0, c=0, d=0
+cpy -16 c
+cpy 1 c
+cpy 75 c
+cpy 97 d
+inc a
+dec d
+jnz d -2
+dec c
+jnz c -5

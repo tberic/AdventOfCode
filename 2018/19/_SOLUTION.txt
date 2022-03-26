@@ -1,0 +1,4 @@
+1: 1008
+2: 11534976
+
+algoritam daje zbroj djelitelja od b (a početne vrijednosti su dane u algo.txt)
