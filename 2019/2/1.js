@@ -3,6 +3,6 @@ const data = fin.readFileSync('input.txt', 'utf8').toString().split(',').filter(
 data[1] = 12;
 data[2] = 2;
 
-for (let i=0; i < data.length; i+=4) {
-
+for (let i = 0; i < data.length; i += 4) {
+    
 }
