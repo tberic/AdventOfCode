@@ -1,2 +1,5 @@
 1: 10664
-2: 
+2: 303459551979256
+
+for the second part use wolframalpha:
+ChineseRemainder[{0, 0, 0}, {186028, 56344, 231614}, 1]
