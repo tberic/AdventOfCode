@@ -1,65 +1,80 @@
-/*
-    Algorithm: BFS
-*/
-
-function gcd(x, y) {
-    return y ? gcd(y, x%y) : x;
-}
-
 let fin = require("fs");
-const lines = fin.readFileSync('input5.txt', 'utf8').toString().split('\r\n').filter(x => x);
+const lines = fin.readFileSync('input.txt', 'utf8').toString().split('\n').filter(x => x);
 
 let reactions = new Map();
-let items = new Map();
+let need = new Map();
 for (line of lines) {
     let [a, z] = line.split(' => ');
-    /*
-    let qties = a.split(', ').concat([z]).map( x => +x.split(' ')[0] );
-    let n = qties.reduce( gcd );
-    let b = a.split(', ').map( x => { let a = +x.split(' ')[0]/n; let b = x.split(' ')[1]; return a+' '+b; } );    
-    reactions.set( z.split(' ')[1], [ qties[qties.length-1]/n, b ] );   
-    */
     reactions.set( z.split(' ')[1], [ +z.split(' ')[0], a.split(', ') ] );
-    items.set( z.split(' ')[1], 0 );
 }
 
-console.log(reactions);
+//console.log(reactions);
 
-let Q = [ '1 FUEL' ];
-//items.set( 'FUEL', 1 );
-items.set( 'ORE', 0 );
+/*
+    first topologically sort the nodes using DFS
+*/
+let visited = new Set();
+let order = [];
 
-while (Q.length > 0) {
-    //console.log(Q);
-    let [qty, product] = Q.shift().split(' ');
-    qty = +qty;
-
-    console.log( qty + " " + product );
-    console.log(items);
-
-    if (product == 'ORE') {
-        items.set(product, items.get(product) + qty);
-        continue;
+function DFS(node) {
+    visited.add(node);
+    if (node == 'ORE') 
+        return ;
+    
+    let inputs = reactions.get(node);
+    for (let i = 0; i < inputs[1].length; ++i) {
+        let [q, ingredient] = inputs[1][i].split(' ');
+        if (!visited.has(ingredient))
+            DFS(ingredient);
     }
 
-    let inputs = reactions.get(product);
-    let n = Math.ceil( (qty-items.get(product)) / inputs[0]);
+    order.push(node);
+}
 
-    if (n <= 0)
+DFS('FUEL');
+order.reverse();
+order.push('ORE');
+
+//console.log(order);
+
+function finished() {
+    for (let [key, val] of need) 
+        if (key != 'ORE') {
+            if (val > 0) return false;
+    }
+    return true;
+}
+
+function findFirst() {
+    for (let i = 0; i < order.length-1; ++i) 
+        if (need.has(order[i]) && need.get(order[i]) > 0)
+            return order[i];
+}
+
+need.set( 'FUEL', 1 );
+
+while (!finished()) {
+    product = findFirst();
+
+    if (product == 'ORE')
         continue;
+    
+    let qty = need.get(product);
+    //console.log( qty + " " + product );    
 
-    items.set( product, n*inputs[0]-qty+items.get(product) );
-
-    //items.set( product, items.get(product) - n*inputs[0] );
+    let inputs = reactions.get(product);
+    let n = Math.ceil( qty / inputs[0]);
+    need.delete( product );
 
     for (let i = 0; i < inputs[1].length; ++i) {
         let [q, name] = inputs[1][i].split(' ');
         q = +q;
         
-        //items.set( name, items.get(name) + q*n );
-        Q.push(q*n + ' ' + name);
+        if (need.has(name))
+            need.set( name, need.get(name) + q*n );
+        else
+            need.set( name, q*n );
     }
 }
 
-console.log(items);
-console.log(items.get('ORE'));
+console.log(need.get('ORE'));
