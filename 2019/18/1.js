@@ -13,12 +13,12 @@ for (let y = 0; y < m; ++y)
 
 console.log(grid);
 
-let visited = new Map();
+let visited = new Set();
 
 let dirs = [ [-1, 0], [+1, 0], [0, -1], [0, +1] ];
 
 let Q = [ [0, y0, x0, 1] ];
-visited.set( [y0,x0,1].join(','), 1 );
+visited.add( [y0,x0,1].join(',') );
 
 let nKeys = countKeys();
 let x, y, steps, keysCollected;
@@ -36,7 +36,7 @@ while (Q.length > 0) {
     for (let [dy, dx] of dirs)
         if ( possible(y+dy, x+dx, keysCollected) ) {
             //visited[y+dy][x+dx] |= keysCollected | convert(grid[y+dy][x+dx]);
-            visited.set( [y+dy, x+dx, keysCollected | convert(grid[y+dy][x+dx])].join(','), 1 );
+            visited.add( [y+dy, x+dx, keysCollected | convert(grid[y+dy][x+dx])].join(',') );
             Q.push( [steps+1, y+dy, x+dx, keysCollected | convert(grid[y+dy][x+dx])] );
         }
 }
