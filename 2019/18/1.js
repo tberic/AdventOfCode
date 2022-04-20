@@ -1,5 +1,5 @@
 let fin = require("fs");
-const grid = fin.readFileSync('input.txt', 'utf8').toString().split('\n').filter( x => x );
+const grid = fin.readFileSync('input-pruned.txt', 'utf8').toString().split('\n').filter( x => x );
 
 let m = grid.length, n = grid[0].length;
 let x0, y0;
@@ -84,7 +84,7 @@ function countKeys() {
 function possible(y, x, keys) {
     if (y < 0 || y >= m) return false;
     if (x < 0 || x >= n) return false;
-    if (grid[y][x] == '#') return false;
+    if (grid[y][x] == '#' || grid[y][x] == '*') return false;
     if (visitedKeys(y, x, keys)) return false;
     if (grid[y][x] == '.' || grid[y][x] == '@') return true;    
     if (grid[y][x] >= 'a' && grid[y][x] <= 'z')
