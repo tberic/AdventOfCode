@@ -45,7 +45,7 @@ function DFS(y, x) {
     }
     if (grid[y][x] == '.' && !flag) grid[y][x] = '*';
     if (grid[y][x] >= 'a' && grid[y][x] <= 'z') return true;
-    if (grid[y][x] >= 'A' && grid[y][x] <= 'Z') return true;
+    //if (grid[y][x] >= 'A' && grid[y][x] <= 'Z') return true;
     return flag;
 }
 
