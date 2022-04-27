@@ -1,89 +1,28 @@
 let fs = require("fs");
 const lines = fs.readFileSync('input.txt', 'utf8').toString().split('\n').filter( x => x );
 
-/*
-    precalculated inverses to speed up the program
-*/
-let inversesLines = fs.readFileSync('inverses.txt', 'utf8').toString().split('\n').filter( x => x );
-let inverse = new Map();
-for (let line of inversesLines)
-    inverse.set( +line.split(',')[0], +line.split(',')[1] );
-
 const M = 119315717514047;
 const NSTEPS = 101741582076661;
 //const M = 10007;
 let pos = 2020;
+//let pos = 2939;
 
-let visited = new Map();
-visited.set(pos, 0);
-let steps = 0;
-while (true) {
-    steps++;
-    for (let line of lines.reverse()) {
-        if (line.split(' ')[0] == "deal" && line.split(' ')[1] == "with") {
-            pos = dealWithIncrement( pos, +line.split(' ')[3] );
-        }
-        else if (line.split(' ')[0] == "deal" && line.split(' ')[1] == "into")
-            pos = dealIntoNewStack( pos );
-        else if (line.split(' ')[0] == "cut")
-            pos = cutCards( pos, +line.split(' ')[1] );
-
-        //console.log(line + ": " + pos);
+let a = 1, b = 0; // for the linear congruence new_pos = a*old_pos + b (mod M)
+for (let line of lines) {
+    if (line.split(' ')[0] == "deal" && line.split(' ')[1] == "with") {
+        let n = +line.split(' ')[3];
+        a = a*n % M;
+        b = b*n % M;
+    }        
+    else if (line.split(' ')[0] == "deal" && line.split(' ')[1] == "into") {
+        a = (M - a) % M;
+        b = (M - b - 1) % M;
     }
-    
-    if (visited.has(pos)) {
-        console.log("Repeats!");
-        break;
+    else if (line.split(' ')[0] == "cut") {
+        let n = +line.split(' ')[1];
+        b = (b + M - n) % M;
     }
-    visited.set(pos, steps);
-
-//console.log(pos);
 }
-console.log("Steps: " + steps);
-console.log("Last seen: " + visited.get(pos) );
-console.log("Steps left: " + (NSTEPS-steps) % (steps-visited.get(pos)) );
-console.log("Pos: " + pos);
+console.log( a + " " + b );
 
-//pos = 2020;
-for (let i = 0; i < (NSTEPS-steps) % (steps-visited.get(pos)); ++i) {
-
-    for (let line of lines.reverse()) {
-        if (line.split(' ')[0] == "deal" && line.split(' ')[1] == "with") {
-            pos = dealWithIncrement( pos, +line.split(' ')[3] );
-        }
-        else if (line.split(' ')[0] == "deal" && line.split(' ')[1] == "into")
-            pos = dealIntoNewStack( pos );
-        else if (line.split(' ')[0] == "cut")
-            pos = cutCards( pos, +line.split(' ')[1] );
-    }
-
-}
-console.log(pos);
-
-
-
-
-function dealIntoNewStack(x) {
-    return (M - x - 1);
-}
-
-function cutCards(x, N) {
-    return ( x + M + N ) % M;
-}
-
-function dealWithIncrement(x, N) {
-    return (modInverse(N)*x) % M;
-}
-
-/* we will hard code this for the given input */
-function modInverse(x) {
-    if (inverse.has(x))
-        return inverse.get(x);
-    return undefined;
-
-/*
-    for (let i = 1; i < M; ++i)
-        if (i*x % M == 1)
-            return i;
-*/
-}
+// for the rest, plug in a and b into Mathematica notebook 2.nb
