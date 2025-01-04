@@ -1,0 +1,134 @@
+y00 AND x00 -> ksw
+y00 XOR x00 -> z00
+
+x01 AND y01 -> hkv
+x01 XOR y01 -> kgn
+
+y02 AND x02 -> jmb
+y02 XOR x02 -> pfd
+
+x03 AND y03 -> npd
+y03 XOR x03 -> kpp
+
+x04 XOR y04 -> jkv
+y04 AND x04 -> fnh
+
+y05 AND x05 -> vjt
+x05 XOR y05 -> gpv
+
+x06 AND y06 -> wcw
+x06 XOR y06 -> fsb
+
+y07 AND x07 -> fpb
+y07 XOR x07 -> gsg
+
+y08 AND x08 -> jbk
+y08 XOR x08 -> tsj
+
+y09 AND x09 -> drj
+y09 XOR x09 -> sjq
+
+x10 AND y10 -> tgt
+x10 XOR y10 -> vmf
+
+y11 AND x11 -> gnb
+y11 XOR x11 -> gwv
+
+y12 XOR x12 -> hgm
+x12 AND y12 -> fgv
+
+y13 XOR x13 -> fpk
+x13 AND y13 -> vnf
+
+y14 AND x14 -> qgm
+y14 XOR x14 -> shm
+
+x15 AND y15 -> mnh
+x15 XOR y15 -> hhw
+
+x16 XOR y16 -> cbg
+y16 AND x16 -> dcw
+
+y17 AND x17 -> gmg
+y17 XOR x17 -> ckk
+
+y18 XOR x18 -> sgs
+x18 AND y18 -> hpw
+
+x19 AND y19 -> fcw
+x19 XOR y19 -> hwf
+
+x20 AND y20 -> frw
+x20 XOR y20 -> sbs
+
+x21 AND y21 -> z21
+x21 XOR y21 -> tqh
+
+y22 AND x22 -> pdf
+y22 XOR x22 -> rfw
+
+y23 AND x23 -> pmj
+y23 XOR x23 -> wdg
+
+y24 XOR x24 -> jhj
+x24 AND y24 -> rmj
+
+y25 XOR x25 -> psh
+x25 AND y25 -> hkw
+
+x26 AND y26 -> nkc
+x26 XOR y26 -> sjk
+
+y27 AND x27 -> pks
+y27 XOR x27 -> jdw
+
+y28 AND x28 -> nbd
+y28 XOR x28 -> vnn
+
+x29 AND y29 -> tqc
+x29 XOR y29 -> dcn
+
+y30 AND x30 -> wrk
+y30 XOR x30 -> jrs
+
+x31 XOR y31 -> jkc
+y31 AND x31 -> hqj
+
+y32 AND x32 -> hbq
+x32 XOR y32 -> sms
+
+x33 AND y33 -> qwt
+x33 XOR y33 -> grk
+
+x34 AND y34 -> dfq
+y34 XOR x34 -> fcv
+
+x35 AND y35 -> mkv
+x35 XOR y35 -> fbs
+
+y36 AND x36 -> whb
+y36 XOR x36 -> pjs
+
+y37 AND x37 -> nss
+y37 XOR x37 -> wqv
+
+x38 AND y38 -> cjr
+x38 XOR y38 -> bjr
+
+x39 XOR y39 -> hjq
+y39 AND x39 -> bct
+
+y40 AND x40 -> rcb
+x40 XOR y40 -> gfd
+
+x41 XOR y41 -> rsj
+y41 AND x41 -> bck
+
+x42 AND y42 -> kgq
+x42 XOR y42 -> dcm
+
+x43 XOR y43 -> wcc
+y43 AND x43 -> gmm
+
+y44 AND x44 -> wcr
+y44 XOR x44 -> smj

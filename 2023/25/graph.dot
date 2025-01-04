@@ -1,0 +1,1505 @@
+digraph G {
+
+ctq -> hnk, zbt, lpm, txv
+hnk -> ctq, fcp, jxx, nmm
+zbt -> ctq, qns, nrk, snf, gmp
+lpm -> ctq, jcs, rnm, vnn, ndp
+txv -> ctq, nlr, pzx, pnz
+qhv -> ztp, nmc, ctg, cfm
+ztp -> qhv, plk, kvc, kph
+nmc -> qhv, ghm, jtv, dhm
+ctg -> qhv, tnr, kht, cqd, dfp
+cfm -> qhv, xhf, xrm, gkb
+flc -> mxp, zmp, qcn, kbx
+mxp -> flc, fpp, kxv, tzk, sgf
+fds -> fjd, nqr, qph, hsx
+fjd -> fds, vrq, txn, fxs
+nqr -> fds, cnb, rxt, zlz
+crt -> njh, jph, rzr, zxj
+njh -> crt, dhm, rjp, tdj, qzf
+jph -> crt, sgt, grf, mrg
+tzv -> lvv, xnp, bmm, fhk
+lvv -> tzv, vmg, gfl, qkd
+bmx -> tjz, jst, tns, jmd, mqb, kfj, zlv
+tjz -> bmx, qgs, hqs, ggv, lkf
+jst -> bmx, dxq, qzr, kfd, fbt
+tns -> bmx, mhc, qps, bdb
+jmd -> bmx, lph, vnd, jhg
+mqb -> bmx, mxz, lbf, lrq
+kfj -> bmx, rxp, dsd, pbg
+slm -> fkf, dtz, chl, nxr
+fkf -> slm, gqr, sqb, fml
+dtz -> slm, jmg, hts, mjs
+chl -> slm, ldf, lvt, dhb, xph
+nxr -> slm, lxg, vxg, fmm
+kkt -> qdl, qcq, tpt, jrf
+qdl -> kkt, ntx, fbd, tps, vss
+gpv -> qpb, clq, frm, gxd
+qpb -> gpv, xjg, dbn, phq, rhd
+clq -> gpv, mbh, slx, knt
+gxf -> zrf, tzp, ftk, ftq
+zrf -> gxf, ftq, xbc, qlg
+rsz -> clr, gml, vrk, qzr
+clr -> rsz, hzz, fpj, lqj
+jqt -> msg, tdp, lnv, lzt
+msg -> jqt, ghz, vgl, pgg, tkb
+tdp -> jqt, krk, jrx, zhx
+lnv -> jqt, cvk, bgd, plv
+lzt -> jqt, cln, xqt, xxq
+dkb -> fbr, fdx, ljl, pnf, cqd, mzq, lhz
+fbr -> dkb, nvf, zvx, zpg
+fdx -> dkb, scf, hbq, hfd
+ljl -> dkb, qtj, dmb, hsr
+gfp -> ljp, dtg, zdx, hqc
+ljp -> gfp, hxb, qgv, zxr
+dtg -> gfp, kqj, ltl, mqd
+sdh -> tjn, vkd, mxz, gqv, hqc, bqq
+tjn -> sdh, gls, njf, xhp
+mtc -> dxc, rqp, gsv, pbg
+dxc -> mtc, lrq, mtf, xrz, bqq, rlr
+rqp -> mtc, sdj, rlq, vqx
+ccd -> tkb, pdt, gms, fql
+tkb -> ccd, tbz, vrt, msg, fcp
+hdx -> pqs, znd, tkg, rkp
+pqs -> hdx, kkg, qzx, xhg, mvc
+ntd -> spb, zjs, vkb, nrq
+spb -> ntd, bxx, qfs, drp, vlp
+zjs -> ntd, ccj, mph, css, zrn
+vkb -> ntd, lvn, vkr, php, hbj, jrp
+hjl -> cbb, gxd, vpp, mzq
+cbb -> hjl, sph, lfc, zkc
+gxd -> hjl, gpv, qcm, ftx
+vpp -> hjl, mdl, pvr, mrg
+ktt -> jdn, mdh, fhl, cdb
+jdn -> ktt, kpv, jbx, dxv
+hkf -> vmm, ngr, fjp, nrz
+vmm -> hkf, pgz, xcm, jgj, pqj
+nlh -> lbs, kvb, ggv, rrk
+lbs -> nlh, khz, phq, rch, ppq, lkf, rgc, slx
+tjr -> npd, ppc, jxp, ldr
+npd -> tjr, ngc, dpf, jqg
+ppc -> tjr, mmf, kft, jsm, csg
+jxp -> tjr, ldf, shg, knc, ptv, mpr, gvj
+ldr -> tjr, plr, fpt, nzd
+nfk -> pxg, njf, cht, rqd
+pxg -> nfk, kgl, xdq, jtx
+njf -> nfk, szx, mns, tjn
+cht -> nfk, llt, jqz, xtt
+gzl -> kfs, frg, hdq, fxs
+kfs -> gzl, cxx, bqc, pbx
+nvm -> bmv, jgh, vjt, plh
+bmv -> nvm, xgf, hlk, rgs, rjj
+jgh -> nvm, dct, trb, ngc, tld
+vjt -> nvm, kgf, gqr, gxs
+ffd -> sdn, kht, lnk, bhz, bcl
+sdn -> ffd, cmk, tst, mpf, dfp
+kht -> ffd, lph, ctg, lkf
+rjc -> bjd, fql, lbn, skk, hlj
+bjd -> rjc, jnb, hlt, cqk
+fql -> rjc, cvh, bbr, kbx, ccd, kcs
+lbn -> rjc, fsk, cpz, mlz, xkd
+skk -> rjc, xgx, hxt, gqd, cls
+kgn -> drp, hmx, pqb, cfc
+drp -> kgn, nmr, dkc, spb, ksf, mqj
+hmx -> kgn, blx, xsg, pld, gzx
+qlj -> cqn, vfx, cth, kmd, lhn, fpq, kvc, smm, lhf
+cqn -> qlj, kjr, dsr, qpg
+vfx -> qlj, hqs, mrq, qdp
+cth -> qlj, gzb, jrs, mlt
+kmd -> qlj, nhz, pds, kkg
+lhn -> qlj, qzx, lcf, rjl
+fpq -> qlj, gsv, kgl, jts
+kvc -> qlj, ztp, sxc, mrg
+smm -> qlj, dmg, kzg, rxj
+lhf -> qlj, dvs, rlq, grd, gfv
+zcx -> qrv, xdv, thr, hdt
+qrv -> zcx, pxp, spc, tvf, nbh
+xdv -> zcx, hgc, fqk, grg
+thr -> zcx, gqr, csl, vpm, fjp, rpb
+hpb -> lhg, nbv, ftm, tcr
+lhg -> hpb, chh, gxk, mjh
+nbv -> hpb, nrq, fhl, htm, jjk, bsx, mlz
+ftm -> hpb, dhc, xzb, nbp, hnr
+tcr -> hpb, bvc, mkr, gms, qsf, ncp
+kxk -> gcl, dvk, kgx, rfz, zsz, bzm, zfn
+gcl -> kxk, gqd, grq, mhd
+dvk -> kxk, vkf, dzk, rst, fqv
+kgx -> kxk, mmz, vmx, hjb
+rfz -> kxk, bsq, ccz, jcg
+zsz -> kxk, lld, ccn, nrz
+fnv -> hbq, tnq, fdp, hhf
+hbq -> fnv, fhx, ndf, xqb, fdx
+tnq -> fnv, kjr, vqr, ctz
+fdp -> fnv, hxb, gjz, xpl, pck, bbt, vss
+fls -> ntk, fmv, rxx, kpq
+ntk -> fls, cfg, tks, srq
+fmv -> fls, bnj, xxl, rbd
+rxx -> fls, qcm, lnl, dbm
+kpq -> fls, kqg, bvp, sjt
+lnk -> dqv, cqq, ffd, pgq, hbv
+dqv -> lnk, lmz, chs, xqb
+cqq -> lnk, cfg, lsk, jjx, nkd
+pgq -> lnk, vvm, lhz, xxx, pjv
+hbv -> lnk, skd, szx, dtf, gxv, pcs
+kpf -> llk, qhs, zxd, lcj
+llk -> kpf, xnp, zll, jrr
+qhs -> kpf, fzt, kdv, kps
+zxd -> kpf, nrk, vqn, ndn, qsf
+lcj -> kpf, lhx, ppz, mjn, mjx
+bld -> nxd, zbv, dlg, qts
+nxd -> bld, mcq, pdr, nrp, gcb
+zbv -> bld, plr, blx, gzx, mls
+dlg -> bld, jnb, qnd, fjc, tsp
+qts -> bld, mjr, jmg, srb
+thg -> psz, nzd, fpt, pjr
+psz -> thg, rcj, sdb, rpg
+nzd -> thg, jcs, ldr, pgm
+fpt -> thg, ldr, gbj, mmx, lsp
+mzp -> hzk, csp, jxg, hrg
+hzk -> mzp, gff, hbj, rcm
+csp -> mzp, msc, szc, tsp
+jxg -> mzp, jnd, dqn, stp
+hrg -> mzp, flb, csl, zfx
+lqk -> cpv, kdv, gff, mkt
+cpv -> lqk, xgx, bmq, tlr, ctp
+kdv -> lqk, jbx, qhs, zcm
+slb -> chj, chm, rpk, fgn
+chj -> slb, cxz, rfq, jjf, fkt, nnf
+chm -> slb, shj, sbt, vvm
+rpk -> slb, cpp, zrj, zkc, zdg
+gxq -> kvn, mhz, grq, jqc
+kvn -> gxq, pql, lpd, tsm
+mhz -> gxq, cxx, gnk, xvn
+grq -> gxq, gqd, pzx, gcl
+zmk -> krs, kss, fdk, dxv
+krs -> zmk, mdd, bzm, zlq, pnn, dvq, slk
+rcf -> srd, fnn, xpg, jcg
+srd -> rcf, hvf, kps, kbj
+fnn -> rcf, zlv, nqb, tsp
+xpg -> rcf, xjb, blp, jrn
+jcg -> rcf, ghz, rfz, pgg
+rff -> zqp, qrh, ndn, gkh
+zqp -> rff, knc, jnd, stf, gbr, vtl
+cmk -> khb, btp, sdn, xtc
+khb -> cmk, mxl, rkp, nkq
+btp -> cmk, mdk, klh, ggz
+sxc -> kgg, khz, xmj, kvc
+kgg -> sxc, rxp, kbq, bvp
+kvb -> fbt, bhp, vvx, nlh
+fbt -> kvb, sph, blf, jst
+bhp -> kvb, thz, vnx, mxs
+vvx -> kvb, xrd, zlg, cfs
+vgn -> bkk, qps, lpp, xdh
+bkk -> vgn, blh, rfm, gzv
+qps -> vgn, fbs, hgd, tns
+lpp -> vgn, xqv, rzr, gsv, dxx
+rxp -> dmp, kgg, kfj, ccx
+dmp -> rxp, hcb, dxx, bhr
+mmv -> gqd, lnh, pqj, tkn
+gqd -> mmv, grq, gcl, skk
+lnh -> mmv, snm, vqn, dqt
+pqj -> mmv, dsb, vmm, bsq
+tkn -> mmv, mpd, bpv, clf
+qcq -> kkt, qgs, kxt, rcb
+nlr -> pkq, txv, mft, zlf
+pkq -> nlr, qsg, mcq, scs
+mmf -> pnn, ppc, bxx, cnj, shg, zzr
+pnn -> mmf, rtj, krs, bjb
+bxv -> pjv, fht, hnm, znd
+pjv -> bxv, xfk, mpm, kgl, lnq, cvs, pgq
+fht -> bxv, zdg, fnj, ghq, rgn
+hnm -> bxv, sql, snv, cbq
+rjl -> xpl, zjx, dfp, lhn
+xpl -> rjl, fdp, fzm, nrv
+lld -> zsz, hvf, ptp, plh, qkd
+jcs -> jsn, nzd, fml, lpm, hlj, qnd, mjs
+jsn -> jcs, gnl, kzc, jvt
+fml -> jcs, mvg, htq, fkf, xpt
+rfj -> csq, rrg, htx, pcs
+csq -> rfj, bxk, pbr, nvz
+brt -> fgj, qkt, ggt, sfd
+fgj -> brt, qvc, hlm, cpf, cnl
+cfg -> cqq, ntk, jlr, frc, bzc
+jlr -> cfg, zmx, scf, zsq
+frc -> cfg, xqh, zfz, qkt
+gml -> mpm, rsz, ndq, xsl
+mpm -> gml, plt, pjv, fkc, rvl, lzr
+ndq -> gml, cnl, mbk, njn
+xsl -> gml, mqd, tpb, xhg
+bmh -> blx, lkl, sds, qph, bvc
+blx -> bmh, zbv, hmx, zlq
+lkl -> bmh, qbs, hzp, thd, rzk
+sds -> bmh, hvf, jfd, rkr, zpq
+qph -> bmh, jft, ktb, fds, qnh, brp
+bvc -> bmh, tcr, bfl, ncp
+fhx -> tmk, vrk, hbq, zff, gxv
+tmk -> fhx, vpk, pkl, krj
+vrk -> fhx, rsz, zsb, hcc
+zff -> fhx, zjx, bch, svv, zts, hkn, jhg
+hhf -> mzb, fnv, fcn, rmz, jhq
+mzb -> hhf, fqs, pck, hdm
+fcn -> hhf, qzb, mbh, czb
+pgz -> xbl, dkc, spj, vmm, vft
+xbl -> pgz, gtg, zpf, mtb
+dkc -> pgz, ccs, drp, tnf
+spj -> pgz, xgm, hjq, srp, jnd
+vft -> pgz, mjr, xgf, dnz
+mdd -> srp, krs, kft, qsg, qzg, gts
+srp -> mdd, btg, pld, spj
+kft -> mdd, bfc, ppc, xdr, mfz, xkd, xxz
+qsg -> mdd, scl, pkq, tvq
+qbg -> pkj, sph, pjb, mlt
+pkj -> qbg, qgs, ftg, xzr
+sph -> qbg, cbb, fbt, ctm, qmq
+mgv -> dxq, kgl, zcn, xtt
+dxq -> mgv, qkt, jst, bch, llx
+kgl -> mgv, pxg, fpq, pjv
+jhj -> rpb, lhq, lrp, hsx
+rpb -> jhj, mbb, thr, cxn
+lhq -> jhj, pnz, ktb, brp, mgm
+lph -> kht, zpn, jmd, bjm
+frm -> klh, gpv, rvl, ndf, vpk
+klh -> frm, lfn, btp, qzl
+rvl -> frm, xbm, zqr, nqs, grd, mpm
+sqx -> prm, tnr, tjt, njn
+prm -> sqx, sbt, plc, mjm
+tnr -> sqx, ctg, svs, xhx
+tjt -> sqx, pkk, cld, pdb
+rbh -> nrp, ggl, vls, xqt
+nrp -> rbh, bzb, nxd, nvs, rpg
+ggl -> rbh, tvq, ndd, tvn
+vls -> rbh, xgg, zzp, xbs
+xqt -> rbh, lzt, kgt, zlb, fjp, tkx
+mmj -> xlb, mlh, lrr, vgj
+xlb -> mmj, vkd, rvj, rdh, knf
+lvn -> vkb, nnd, gts, vtc
+dfj -> lbb, sbs, xjd, zvn
+lbb -> dfj, phs, hbk, ktd
+sbs -> dfj, rgs, vkf, jqg
+xjd -> dfj, xvp, dhk, jbr
+mlh -> mmj, lht, ptl, kzn, kzg, jgv
+lht -> mlh, ntx, zcn, qgx
+ptl -> mlh, zmx, cnk, fpl, bpq
+kzn -> mlh, zxr, fsj, dxx
+kzg -> mlh, mlp, smm, jgx
+jgv -> mlh, mrf, ngz, llt
+qgs -> pkj, tjz, qcq, fdt
+gnl -> jsn, pcq, bpv, fqv
+kzc -> jsn, csg, bxc, mll
+jvt -> jsn, sdb, mnz, gkr
+zjx -> zff, jsl, kxt, rjl, lzk
+jsl -> zjx, nkd, mpq, fbd
+kxt -> zjx, njn, ntm, qcq, mtm
+kfq -> qkl, dvs, nhk, pvr
+qkl -> kfq, svv, shh, zfz
+dvs -> kfq, kbq, lhf, qzf
+nhk -> kfq, qzc, xcx, rvj
+tkp -> klm, slv, vvf, zxm, khn, hfs
+klm -> tkp, mbx, lnq, rhd
+vzv -> jgx, ngq, lbd, ttt, lnl, hps, rlr
+jgx -> vzv, kzg, vdr, tks, gvl, hlm, tqv
+ngq -> vzv, frl, hgd, mpj
+lbd -> vzv, thz, lnq, knf
+ttt -> vzv, fgh, bfx, thp, fsg
+lnl -> vzv, qbd, nlb, rxx
+fbs -> mpf, fjj, qps, pbg
+mpf -> fbs, sdn, ggp, vdr, nhd
+fjj -> fbs, qqh, vvr, vzc
+xzg -> hnz, rrn, ffq, xtc, krj
+hnz -> xzg, fpz, jrt, fqs, njx
+rrn -> xzg, pbg, hzl, bbc
+ffq -> xzg, jkk, zcc, ztg
+lfc -> gjz, cbb, xsn, qbr, rpn
+gjz -> lfc, rxc, fdp, cnk
+qtj -> mcs, bbn, mxs, ljl
+mcs -> qtj, hlm, vbg, ggz
+bbn -> qtj, cnx, jqz, mzl
+mxs -> qtj, nqs, qlm, xfk, pnf, knr, lmj, bhp
+vnb -> pkl, svs, lpz, vqx
+pkl -> vnb, xhx, tmk, mjm
+svs -> vnb, vqr, xbm, xdq, tnr, bqr
+lpz -> vnb, bbj, nrv, ncs
+gsg -> pcg, sfd, hfs, vbg
+pcg -> gsg, tgs, rqc, jcc
+sfd -> gsg, brt, qgx, jts
+hfs -> gsg, qnl, dcm, ssf, tkp
+vbg -> gsg, rjp, vgz, gqj, mcs
+zdr -> fkc, zjp, qlg, njr
+fkc -> zdr, rlk, khd, ncs, mpm
+zjp -> zdr, hcb, grt, gnj, vcz, qgv
+qlg -> zdr, zrf, zpn, cbz, ngl
+cln -> lzt, xcz, ktd, dcf, jvk
+ccs -> dkc, ftl, hjg, hdq, nxx
+kqg -> kpq, szl, ghs, mvv
+bvp -> kpq, mrf, qbq, lrq, kgg
+plr -> ldr, gzd, zbv, cdb
+gzd -> plr, dqn, gts, vqn
+kps -> vrt, srd, qhs, pbx
+vrt -> kps, lhx, tkb, djn, fjc, gkh, zcm
+snf -> nnd, stm, zbt, jrr
+nnd -> snf, tbj, mjp, lvn, bmm, gpq
+pdq -> znj, cdd, ltl, grt, lmz
+znj -> pdq, cvg, nkd, rfd
+cdd -> pdq, rxc, hgj, fpg
+jnb -> bjd, spd, dlg, ldf
+spd -> jnb, vtl, pql, zpf, rkl, fmm, spx
+cnl -> ndq, fzm, bbj, srq, fgj
+mbk -> ndq, tgl, kgk, tcc
+pqb -> kgn, vlt, fqv, tpn, rst
+vlt -> pqb, rlh, hjb, gfl
+fqv -> pqb, gkk, dvk, gnl
+qln -> sdf, pvn, zdx, vss
+sdf -> qln, bfq, dhs, xzr, cpn, dkh
+pvn -> qln, qmq, gnj, rgc
+zdx -> qln, stq, gfp, xcs
+mlp -> kzg, plt, nkn, qfp
+xqv -> xbm, lpp, srz, tgl, zzk
+xbm -> xqv, rvl, cgr, rlk, svs
+nvp -> hgc, nrk, dpc, pxp, vrn
+hgc -> nvp, xdv, btg, bdt
+rzr -> sml, lpp, tzp, crt
+sml -> rzr, xcs, thp, jvr
+tzp -> rzr, vcg, bpp, gxf, xjg
+fgh -> ttt, chs, tdj, xcd, nbg
+bfx -> ttt, zbq, pqm, sql
+thp -> ttt, sml, ztg, btz, khq
+fsg -> ttt, rhd, fkq, dfh, rfd
+mvn -> ngz, lnb, rch, bpp
+ngz -> mvn, jgv, lfn, qqh, zjd, zsb
+tbj -> tmc, nnd, xvp, mdh, vhq, xcz, mvr
+tmc -> tbj, bmn, ncc, hbj
+xvp -> tbj, xjd, jmx, xdl, qqk
+xgf -> bmv, vft, gkh, kgz
+kxh -> nkd, hfc, xfc, fgn
+nkd -> kxh, xrd, znj, jsl, cqq
+hfc -> kxh, qzr, xhg, bdb
+ftl -> vnn, ccs, xzm, hsx
+vnn -> ftl, lpm, kjd, cgq, lmb
+xzm -> ftl, dzb, jrx, brp
+hvf -> srd, sds, lld, xvn
+xvn -> hvf, kdq, lhd, dhk, lrp, mhz
+plk -> ztp, sdx, xdh, zhg, khn
+jmj -> tmq, xgm, kdq, gkn
+tmq -> jmj, lgp, ndg, rgr, jzh, bfj, vsr, mvg
+xgm -> jmj, mkr, spj, btn
+kdq -> jmj, xvn, lkr, mqj
+gkn -> jmj, gmm, cch, ffp
+hjq -> btg, skl, spj, gkr
+btg -> hjq, hgc, srp, qhl, ktd
+jjx -> nxv, vkl, knr, sxn, rqd, cqq
+nxv -> jjx, grt, xbv, hps
+pdt -> jpj, gkk, mds, ccd, vqp
+jpj -> pdt, lrj, stm, gbj
+gkk -> pdt, qcn, kjd, fqv, lmr
+mds -> pdt, clj, hpx, lpd
+vqp -> pdt, rsk, rkr, mgm
+kss -> dqg, zlb, cxn, zmk
+dqg -> kss, pcq, pvk, xjb, zlf
+zlb -> kss, jps, xqt, fjz
+cxn -> kss, qhm, bhv, rpb
+mrq -> hzl, vfx, xbk, lbg
+hzl -> mrq, jtv, rrn, ntm, gds
+pgf -> pgs, hth, xlk, qmb, jtx
+pgs -> pgf, cxf, shc, xdq
+hth -> pgf, nhz, bcl, rdk, rfd
+xlk -> pgf, hdm, vdr, smp
+pzx -> txv, grq, jps, ksd
+hqs -> vfx, ghp, fqs, tjz, rgc
+qdp -> vfx, fsj, hcc, bzc
+jnd -> jxg, nbz, spj, zqp
+dfh -> tst, cvg, qlv, fsg
+tst -> dfh, xkv, sdn, pjk
+qbs -> ffb, lkl, trr, skl
+ffb -> qbs, lsp, gpq, lmr
+xjb -> xpg, smr, dqg, vqn, tsm
+jnm -> tks, rcn, mvc, hgj, svv
+tks -> jnm, xnd, ntk, xxc, jgx
+rcn -> jnm, ggv, zbm, qlv
+mvc -> jnm, pcs, pqs, vcz
+hgj -> jnm, cdd, ntm, rqd, nnm
+qtl -> ftr, pgm, nbh, fjz, fhq
+ftr -> qtl, phs, dpc, xnz
+pgm -> qtl, skl, grg, nzd, cfc
+nbh -> qtl, cbh, zzp, qrv
+fjz -> qtl, xsb, qgh, qjp, zlb
+fhq -> qtl, bpl, mnz, slk
+xkv -> tst, xnk, lkf, gqj
+gjt -> kmq, bxc, cbh, mvg, php
+kmq -> gjt, lgp, pnz, bsx, xts, pfj
+bxc -> gjt, tpn, vsv, cqk, lqt, kzc
+xks -> ntx, ggv, scf, bnj
+ntx -> xks, lht, cpn, qdl
+hxb -> ljp, ljk, fdp, mtm
+ljk -> hxb, ssh, zts, zsb
+pjb -> qbg, jdc, bpp, hsr, cnx
+jdc -> pjb, tkv, pds, mvv
+bpp -> pjb, tzp, bsk, mvn, lhz
+hsr -> pjb, tjq, ljl, mjb, njx
+qnh -> xmg, htm, vhq, qph
+xmg -> qnh, nnb, sgl, hts
+htm -> qnh, txn, pvk, nbv, gkh, zlz
+tqm -> ncc, bmn, jlt, fhk
+ncc -> tqm, dzk, bsq, tmc
+bmn -> tqm, stf, mbb, tmc
+jlt -> tqm, txn, fxl, gnk
+fhk -> tqm, hnq, tzv, ngn, mng
+nmr -> drp, xgg, fdk, nst, mnq, jvk
+xgg -> nmr, vls, gbj, pld, nst
+bsv -> mbx, bqr, nhx, xcd
+mbx -> bsv, klm, frr, tgx, vqr
+bqr -> bsv, nhx, vkd, svs
+nhx -> bsv, bqr, sgt, zgf, ppq
+xcd -> bsv, fgh, mhc, lfs
+krk -> tdp, gmx, css, mld, hsb
+gmx -> krk, ptp, lhd, jmx
+qzc -> nhk, hxm, bfq, zbm
+hxm -> qzc, dsd, sbg, krl, vnx, vxf
+xnp -> llk, qdh, tzv, mtb, qqk
+qdh -> xnp, tzk, pjr, hfx, sgx, dvl
+mfz -> nnk, pjq, kft, mtb
+nnk -> mfz, jnq, ppm, kpj
+pjq -> mfz, bmq, mkt, fzq, rct
+rrg -> qbq, rfj, kbt, fbd
+qbq -> rrg, tht, vkp, bvp, rgn
+ctm -> sph, zkk, drv, lmd
+qmq -> sph, pvn, zfz, xsn
+lkr -> bgd, hcn, kdq, cnb
+bgd -> lkr, pcq, lnv, nbp, hzd
+hcn -> lkr, hfz, mkr, vsr
+cnb -> lkr, zfx, nqr, stb, qmn
+xrd -> vvx, nkd, vjs, qbd
+vjs -> fdt, xrd, prp, ghp
+fdt -> vjs, nvz, tqc, kkg, qgs
+prp -> vjs, ntl, vgz, brc, hkn, ppq
+ghp -> vjs, nvf, hqs, hzz
+nrk -> phn, nvp, vhs, zxd, trr, xsx, zbt
+phn -> nrk, bfc, ksf, jqg
+vhs -> nrk, jpp, vsv, hck
+lmz -> dqv, rbg, pdq, cbq
+chs -> dqv, fgh, khd, zzv
+xqb -> dqv, llx, hbq, hdm, gdc
+zpg -> bbf, rmx, fbr, cmq, nhd
+bbf -> zpg, mdl, qbm, lbg
+rmx -> zpg, lbf, zzv, mqd, mpx
+fkt -> lhp, blb, bhz, dzc, chj
+lhp -> fkt, czb, jml, qnl
+xsb -> fjz, ptt, kbj, nst
+ptt -> xsb, spz, flb, xqf
+nlj -> rlv, bfc, ngn, jdm
+rlv -> nlj, trr, php, qxx
+hgf -> gnm, xcn, tld, cqg, rct
+gnm -> hgf, hjg, dvf, gxk, pdr, rcj
+xcn -> hgf, qrx, skn, tsm
+tld -> hgf, jdj, jgh, jgc
+cqg -> hgf, pjn, fnp, mmx
+rct -> hgf, vhq, fvj, pjq
+cvg -> znj, dkd, kbt, dfh, blf
+dkd -> cvg, zdg, ctz, xtm
+kbt -> cvg, xms, rrg, nnm
+tjq -> sbg, hsr, xcs, gsd, nvz
+sbg -> tjq, hxm, qbr, sth
+xcs -> tjq, sml, zdx, ftx
+gsd -> tjq, ltv, zmg, jts
+nvz -> tjq, srz, rrc, fdt, csq, mpx
+hnf -> skp, kvp, jgs, smp
+skp -> hnf, mxz, tmd, qvc
+mnl -> gmp, jsz, fsh, jsm, gsm
+gmp -> mnl, jzf, hfz, cbh, zbt, kpv
+jsz -> mnl, fpp, snm, mcm
+fsh -> mnl, hjg, bzb, tvn, hfz, zvn
+jsm -> mnl, knd, ppc, ktd
+gsm -> mnl, hlt, xnz, ffh
+zlv -> fnn, bpl, bmx, mlz
+bpl -> zlv, ksf, mqq, fsk, vgl, fhq
+mlz -> zlv, blp, nbv, lbn
+skt -> rfm, knf, ndf, pvr
+rfm -> skt, dsr, bkk, xtt
+knf -> skt, bfm, lbd, bnj, xlb, mjm
+lhx -> lrp, kbc, scx, vrt, lcj
+lrp -> lhx, xvn, jhj, fnh
+kbc -> lhx, gxs, vgl, xbs
+scx -> lhx, dnz, nvs, tvx
+ldf -> jxp, chl, jnb, hfz
+hfz -> ldf, gmp, fsh, lmb, hcn
+rnq -> cqp, pds, fmc, kkg
+cqp -> rnq, mrf, zkh, jhg
+pds -> rnq, kmd, gnv, jdc, phq
+qgh -> mjc, fjz, jft, rng
+mjc -> qgh, xzp, vpl, nmm
+fdk -> nmr, jmg, qzn, zmk
+jmg -> fdk, dtz, qts, rnm, rcg
+qzn -> fdk, jnq, mcm, lrd
+rlx -> dcf, kpv, mph, vxg
+dcf -> rlx, rfk, cln, xts
+kpv -> rlx, jdn, mft, gmp, gvj
+mph -> rlx, rxz, zjs, hdq, xbg, vtc
+vxg -> rlx, kgf, mkt, vqn, nxr
+bfc -> phn, kft, nlj, fsk
+fsk -> bfc, lbn, bpl, ndd
+dsd -> hxm, kfj, lmd, zhg
+lrq -> dxc, plc, qzl, bvp, mqb
+mtf -> dxc, zdn, ggt, xtm
+hvk -> rdh, vvm, qgx, qnl, nnm, nbg
+rdh -> hvk, ntl, cbz, xlb
+vvm -> hvk, qbr, chm, pgq
+qgx -> hvk, nqt, lht, sdj, sfd
+qnl -> hvk, vcz, lhp, hfs
+nnm -> hvk, kbt, ckq, hgj
+qzg -> hsx, rxt, chh, mdd, lrj
+hsx -> qzg, fds, ftl, jhj
+rxt -> qzg, nqr, nvs, plv, dqt
+chh -> qzg, hnq, lhg, jgj
+zmx -> jlr, zsb, ptl, bxk
+zsb -> zmx, ngz, vrk, ljk
+trr -> qbs, rlv, nrk, rcg
+blm -> fzm, glx, qbd, cnx, czb
+fzm -> blm, xpl, cnl, ldq
+glx -> blm, mkv, nhf, bpq
+qbd -> blm, lnl, xrd, zjd
+xnd -> tks, ghm, blh, xxl
+lgp -> kmq, tmq, dsb, cfc
+xqh -> frc, cbz, blh, xxl, zxm
+cbz -> xqh, snq, rdh, qlg, xxx
+bzm -> pvk, kxk, krs, ksd
+pvk -> bzm, dqg, htm, hxs
+bxk -> vcg, gqv, csq, xhp, zmx, lzr
+vcg -> bxk, tzp, nhf, hkg
+gqv -> bxk, sdh, tgx, dmb
+xhp -> bxk, slv, tjn, bhr
+lzr -> bxk, pqm, zpb, mpm
+jnq -> nnk, qzn, gjc, mjx
+gjc -> jnq, dxv, grv, kxm
+mjx -> jnq, pjr, lcj, hbk
+tgs -> jrs, pcg, mtm, ddv
+jrs -> tgs, ghm, nkn, qlv, bnj, knr, mvh, cth, cpf, xdq
+stf -> bmn, mhd, mng, zqp
+mbb -> bmn, pch, rpb, tvq, zdd
+pnz -> txv, kmq, lhq, kgv
+qzb -> fcn, snv, gxv, jfn
+mbh -> fcn, mzl, sgn, hfd, clq, gkm, vgj
+gff -> ccj, lqk, hzk, tlt
+ccj -> gff, zjs, gzx, qrn
+nvf -> tps, ghp, fbr, hps
+tps -> nvf, qdl, plb, xtm
+nxz -> nnb, ccz, rnm, qmm
+nnb -> nxz, xmg, kkk, ndp
+ccz -> nxz, jps, rfz, nbt
+hvg -> xhg, fnj, tqc, nbg
+xhg -> hvg, xsl, pqs, hfc
+fnj -> hvg, ftq, lnm, ssh, fht
+tqc -> hvg, jgs, fdt, bhr
+mjp -> nnd, lvt, xmh, pqp, zhx
+xjs -> tzl, kvt, xdh, dvj, grt
+tzl -> xjs, djh, zqr, lcf
+ngn -> nlj, vtl, lxs, fhk
+vtl -> ngn, gtx, spd, zrb, zqp
+mrf -> bvp, cqp, jgv, lnt
+lnt -> mrf, zxr, jlp, xxx
+fpp -> mxp, jsz, krf, vnv, plp
+kxv -> mxp, ndd, lmb, fqz
+ndg -> tmq, tlr, xzz, mjh, jqc
+rgr -> tmq, qgp, cpj, lpv
+jzh -> tmq, dvb, fxl, pld
+bfj -> tmq, sgf, vpm, jqc
+vsr -> tmq, ngt, cfc, hcn
+xdq -> pxg, svs, jrs, pgs
+bfq -> sdf, pcr, qzc, cmq
+dhs -> sdf, ftq, kdr, snq
+xzr -> sdf, vfp, jvr, pkj, xfz
+cpn -> sdf, ntx, dqj, snq
+ssf -> shj, rrk, xrv, kjp, hfs
+shj -> ssf, rjp, chm, dtf
+rrk -> ssf, pjk, nlh, rkp
+xrv -> ssf, vcz, vmf, tql
+rcj -> psz, ltj, gxk, gnm
+sdb -> psz, fqk, fxl, jvt
+kgf -> vxg, vjt, jnl, bpv
+nrq -> nbv, vkf, csl, jdm, ntd
+vkf -> nrq, dvk, ccn, sbs
+csl -> nrq, ptp, hrg, thr
+jdm -> nrq, ngr, nlj, xcz
+ptp -> jrp, csl, lld, gmx, mpr
+jrp -> ptp, vkb, shg, htq
+qhm -> cxn, xfr, zfn, ffh, nzb, ndn, vmx, vrn
+xfr -> qhm, hlt, krf, pxt
+zfn -> qhm, kxk, qsf, ddl
+ffh -> qhm, gsm, lsf, lrd
+nzb -> qhm, blp, trb, rpg, qhl
+ndn -> qhm, rff, zxd, fqz
+vmx -> qhm, kgx, fzt, plp, btn
+zqr -> ttv, rvl, tzl, ggp, dvj, snv
+ttv -> zqr, mhc, qgd, brj
+zfx -> cnb, hrg, xzb, mvr
+stb -> cnb, ngr, jjk, rzk
+gxj -> jjk, fqz, vsv, cnj, cls
+jjk -> gxj, nbv, vrq, stb, qqk
+fqz -> gxj, ndn, rjj, kxv
+vsv -> gxj, rzf, bxc, vhs
+cnj -> gxj, xkq, mmf, tsp
+vct -> jfn, zpn, dmg, dfp
+jfn -> vct, qzb, bvb, mxl
+zpn -> vct, lph, mpq, kfd, qlg, llx, shc
+dmg -> vct, zlg, smm, plb
+xcg -> kzm, mjb, grf, ftk
+kzm -> xcg, ssn, qlm, zgf, zzk
+mjb -> xcg, rch, hsr, hdf, xbj
+grf -> xcg, bnj, jph, khd
+qrh -> bhv, rff, dvq, kcf
+bhv -> qrh, rpz, hhp, cxn
+dvq -> qrh, vtc, krs, qhl
+plt -> pnf, mlp, mpm, cpf
+pnf -> plt, zlg, dkb, mxs
+rtj -> pnn, jmx, hrx, dsb, qbc
+jmx -> rtj, nmd, xvp, gmx, xsx, gpq, knd
+hrx -> rtj, vhq, rcg, kkk
+szl -> kqg, nhf, rch, sgt, dqj
+tzk -> qdh, mxp, gmm, frx
+gmm -> tzk, ngt, vmg, gkn, jdj
+frx -> tzk, zfm, hjb, zfh
+rfk -> dcf, jxl, bjb, zhx
+qgv -> ljp, zfb, qkt, cpf, zjp
+lqt -> qgp, cdb, jbr, bxc
+qgp -> lqt, mft, gnk, rgr, vcr
+dhc -> ccn, ppm, gvj, ftm, msc
+ccn -> dhc, cbh, vkf, zsz, rrs, mhd
+ppm -> dhc, znl, nnk, qkd
+gvj -> dhc, mll, jzc, kpv, jxp
+llq -> pdr, qfs, hpx, dhk
+pdr -> llq, nxd, fmm, gnm
+qfs -> llq, lvx, fxl, cbk, spb
+hpx -> llq, mds, fnp, mgm
+dhk -> llq, jrx, xvn, xjd
+nmd -> mvr, tvn, xzp, jmx
+mvr -> nmd, zfx, tbj, scr
+tvn -> nmd, cvk, ggl, fsh
+xzp -> nmd, mlq, mjc, jfd
+hcb -> dmp, zjp, qpg, rdk
+qpg -> hcb, cqn, srq, qkp, lrd, vgj
+ntl -> ppg, rdh, prp, mtm
+ppg -> ntl, rqc, pkk, plc, rpn, mlt
+djh -> qjh, tzl, ltv, kdr
+qjh -> djh, bpm, skz, lmd
+ltv -> djh, sjs, rkp, gsd, gzb
+srz -> xqv, nvz, sgt, xjg
+sgt -> srz, szl, jph, nhx, tpt
+vkl -> xxx, jjx, zvx, jtx
+xxx -> vkl, lnt, cbz, pgq
+zvx -> vkl, fbr, cpp, lrr
+vnq -> nzq, vvr, jml, rhx, jhq
+nzq -> vnq, nhz, blh, gcd, gnj
+vvr -> vnq, fjj, nns, hgd, pcs, vxf
+jml -> vnq, bsz, xrz, lhp, qbv
+blp -> xpg, nzb, nbz, mlz
+rxz -> mph, pch, lxg, qxx
+pch -> rxz, mbb, mlq, nmj, tvx
+ghz -> jcg, msg, kxm, xtf
+zmp -> dvl, flc, mnz, hhc
+dvl -> zmp, qdh, lpv, mgf
+mnz -> zmp, jvt, fhq, bfl, mmz
+hhc -> zmp, dct, dpf, nmm
+ssh -> ljk, vzc, khq, fnj, bzc
+vzc -> ssh, ztg, lfn, tmd, fjj
+kjd -> xts, gkk, vnn, rkr, fph
+xts -> kjd, kmq, dcf, jqc
+vkd -> ggz, bqr, xlb, sdh, blf
+ggz -> vkd, fgb, btp, mcs
+ngt -> mgf, gmm, vsr, ksf
+mgf -> ngt, dvl, fnp, nqb
+ksf -> ngt, phn, dpc, bpl, ssc, rkl, drp
+dbm -> mxf, qvf, rxx, jzz
+mxf -> dbm, tkv, gzv, jhg
+zkk -> ctm, xhf, shh, lbg
+xhf -> zkk, cfm, lbg, jcc
+shh -> zkk, dcs, mzl, qkl, svd
+tvq -> mbb, ggl, qsg, bpv
+zdd -> mbb, xkd, jgp, qkd
+ncs -> dhm, lpz, rjf, cmq, bpm, fkc
+dhm -> ncs, njh, nmc, gqj
+klk -> hzs, gcb, lsf, hdt
+hzs -> klk, rkt, xbs, mhs
+gcb -> klk, nxd, pld, tnf, hnt
+cvk -> lnv, vpl, dxs, jkq, tvn
+vpl -> cvk, kcs, mjc, gpf
+dxs -> cvk, pxt, gzx, kpj
+jkq -> cvk, pbx, dxv, gkh
+qsf -> zfn, pxx, zxd, tcr, mll
+ddl -> zfn, bsq, mnq, srv
+lvx -> qfs, mlq, dsb, zlq, vrn
+ndf -> frm, nqs, skt, hbq
+nqs -> ndf, rvl, rvd, mxs
+dzb -> xzm, dvb, cbk, pbx
+kvp -> hnf, vpq, zsh, dkh, kcg, gkm
+vpq -> kvp, gfv, pbr, bcv, jlp
+zsh -> kvp, tql, vnd, sgn
+dkh -> kvp, gfr, sdf, gls
+kcg -> kvp, xtc, rvj, xmj
+gkm -> kvp, cvs, fvk, mbh
+xbk -> vxf, mrq, dxx, sdx
+vxf -> xbk, vvr, svd, hxm
+dxx -> xbk, dmp, lpp, qvc, kzn
+khz -> jqz, gvt, nqt, lbs, sxc
+jqz -> khz, vcz, cht, bbn
+gvt -> khz, pkk, jlp, tgx
+nqt -> khz, zcc, qgx, mdk, tbl, bqq, mlt
+jqg -> phn, gcf, lcz, jfd, sbs, npd
+xcm -> sqb, vmm, mql, zcq
+sqb -> xcm, krf, ltj, fkf
+mql -> xcm, dvb, lxd, jrn
+zcq -> xcm, sgf, ssc, xkd, mjs
+mjr -> vft, qts, xdr, kxm
+dnz -> vft, mhs, ksx, scx
+qcn -> hxs, pjn, flc, tsl, gkk
+hxs -> qcn, dct, cbk, pvk
+pjn -> qcn, pfj, cqg, djq
+tsl -> qcn, frg, fzt, brp
+mkv -> btz, glx, mtl, plc, tmd
+btz -> mkv, thp, qvf, kbq
+ftk -> dtf, gxf, xcg, zsq
+dtf -> ftk, hbv, qgd, shj, gds
+zsq -> ftk, jlr, xgb, rgn
+rrc -> nvz, zcc, mzl, pjj
+zcc -> rrc, nqt, khp, ffq
+mzl -> rrc, mbh, shh, bbn
+scl -> qsg, nbt, hbj, fph
+jkj -> xdl, lvt, ctp, rnv, dxv
+xdl -> jkj, xvp, msc, fvj
+lvt -> jkj, fqk, mjp, chl
+ctp -> jkj, gbj, lsp, cpv
+gfv -> jlp, rjf, vpq, tdj, lhf
+jlp -> gfv, lnt, gvt, vpq
+rjf -> gfv, fsj, ncs, qvf
+tdj -> gfv, fgh, rph, njh
+zdg -> dkd, fht, rpk, lkb
+ctz -> dkd, rmz, tnq, pqm
+rlh -> vlt, bzb, xbs, tkx
+hjb -> vlt, frx, kgx, xxz
+gfl -> vlt, gbr, lvv, fxc
+hlk -> bmv, vmg, qjp, hdt
+kjr -> tnq, sjs, cqn, brc
+pcq -> kqc, gnl, dqg, bgd
+kqc -> pcq, dvf, cph, nmm
+lnb -> mvn, xsz, kkg, njr, nnf
+mlq -> xzp, pch, lvx, kgz
+kgz -> mlq, gxk, xgf, cch
+bfl -> bvc, stm, hzd, xxq, mnz
+ncp -> bvc, skn, tcr, qrn
+lhd -> xvn, gmx, clj, mdh, ndd, qxx
+clj -> lhd, mds, knd, xpt
+dct -> hhc, jgh, tbz, plp, hxs
+tbz -> dct, tkb, tlr, rng
+plp -> dct, vmx, fpp, ndp
+vcz -> xrv, qnl, qbm, mvc, jqz, zjp
+vmf -> xrv, xcx, rbg, nrv
+mcq -> pkq, nxd, qnd, jgj
+hjg -> ccs, fsh, gnm, bdt
+ghm -> jrs, nmc, xnd, thz
+sjt -> vfp, kpq, bvs, pjj
+vfp -> sjt, fgb, dcm, srq, xzr
+xcx -> gzb, nhk, vmf, sdx, cnx
+gzb -> xcx, gls, cth, ltv
+mkr -> tcr, xgm, zzr, hcn
+hzb -> ssn, sng, scf, pjj
+ssn -> hzb, dcs, kzm, bjq
+sng -> hzb, qqh, hkg, zkc
+scf -> hzb, xks, jlr, jzz, fdx
+xgx -> skk, cpv, rpz, dvb
+frr -> mbx, jzv, xbv, zpb
+tgx -> mbx, gqv, gvt, mvv
+sgf -> bfj, zcq, mxp, fxs
+kcf -> xsx, xzb, qrh, qmm
+xsx -> kcf, nrk, hnt, jmx
+xzb -> kcf, ftm, sqk, zfx, jzf
+vqr -> mbx, svs, tnq, cld
+gls -> gzb, tjn, dkh, vqx
+xjg -> tzp, qpb, srz, lzk
+fcp -> hnk, hdq, tvf, tkb
+jxx -> hnk, gts, jxl, dsl
+ptc -> bqc, bmm, dzk, xqf
+bqc -> ptc, kgt, pqp, kfs
+znd -> hdx, bxv, ftq, njr
+ftq -> znd, fnj, zrf, gxf, pdb, dhs
+rxc -> cdd, gjz, gnv, cbq
+fpg -> cdd, qbv, jtv, xhx
+snv -> qzb, hnm, zqr, qbv
+frg -> gzl, tsl, dvf, xqf
+dvf -> frg, gnm, kqc, fzq, grv
+xmj -> sxc, rmz, sct, kcg
+fqs -> mzb, hqs, dlt, hnz
+zfz -> frc, qmq, qkl, xrz, ngl
+mxz -> sdh, skp, mqb, vgx
+vmg -> fhl, lvv, hlk, gmm
+fhl -> vmg, mjh, nbv, ktt, czx, fnh
+gms -> pgg, tcr, ccd, pxx
+pgg -> gms, msg, jcg, tnf
+plh -> nvm, smr, lld, cdb
+smr -> plh, fnp, gpf, xjb
+fsj -> rdk, qdp, rjf, kzn
+rdk -> fsj, hth, shc, hcb, zxm
+bmq -> qmn, pjq, jzc, cpv
+qmn -> bmq, cnb, gzx, mll
+jzc -> bmq, thd, htq, gvj
+zlg -> pnf, dmg, qvc, vvx
+kvt -> qgd, zmg, xjs, fvk, bsk
+qgd -> kvt, fgb, dtf, ttv, ckq
+zmg -> kvt, gzv, dsr, gsd
+dsb -> spx, pxt, lgp, lvx, pqj, rtj
+spx -> dsb, spd, xbg, psg
+pxt -> dsb, xsg, mqq, xfr, dxs, cgq, mhd, stp
+mdk -> nqt, rph, btp, sth, jrf
+tbl -> nqt, htx, rcb, svd, qfp
+bqq -> nqt, pmm, sdh, bpq, dxc
+hlt -> knc, bjd, qrx, gsm, xfr
+knc -> hlt, pjr, jxp, zqp
+qrx -> hlt, shg, rjj, xcn, hsb
+gbj -> ctp, fpt, mpd, xgg, jpj, tvf
+cxx -> kfs, zpf, vnv, mhz, gxs
+zpf -> cxx, mmx, xbl, spd
+vnv -> cxx, rzf, jgp, fpp
+kgt -> bqc, xqt, sgl, gjh
+szx -> njf, lnq, hbv, kgk, ftg
+mns -> njf, bhz, qbm, jcc, nkq, lrt
+qmb -> bfm, pgf, rgn, brc
+bfm -> qmb, knf, rqc, tmd
+rgn -> qmb, fht, dsr, qbq, zsq
+brc -> qmb, prp, kph, skz, tht, kjr
+fmc -> srj, vjm, rnq, cfs
+srj -> fmc, bsz, frl, rcb
+vjm -> fmc, bsz, bbh, lcf
+nhz -> kmd, nzq, ttj, hth, xhx, thz
+ttj -> nhz, ltl, cbq, ftx
+xhx -> nhz, pkl, sbt, fpg, tnr
+bzb -> csg, rzf, rlh, dqn, fsh, nrp
+csg -> bzb, ppc, lqp, kzc
+rzf -> bzb, vnv, vsv, kpj
+dqn -> bzb, lpv, gzd, jxg, bdt, cls
+lbf -> mqb, tht, rmx, dqq
+tht -> lbf, qbq, bjm, brc
+sdx -> skz, plk, xbk, xcx
+skz -> sdx, qzx, qjh, brc
+skl -> hjq, cch, pgm, qbs, zcm
+cch -> skl, gkn, kgz, lxd
+zcm -> skl, qjp, sdr, kdv, vrt
+rdr -> hhp, rkt, fzq, qmm
+hhp -> rdr, bhv, skn, fnh
+rkt -> rdr, hzs, lsf, jfd
+rmz -> lsk, xbv, xxc, hhf, ctz, xmj, vgj, gnj
+lsk -> rmz, qkt, hzz, cqq
+xbv -> rmz, nxv, frr, ngl
+xxc -> rmz, kfd, tks, vkp
+vgj -> rmz, ltl, mbh, mmj, qpg
+gnj -> rmz, nzq, pvn, kfd, zjp
+dpc -> nvp, ksf, ftr, xzz, ptv
+zfm -> tlr, gjh, frx, mpd, xxz, jvk, flb
+tlr -> zfm, cpv, ndg, tbz, hzp
+gjh -> zfm, lmr, cpz, kgt
+mpd -> zfm, gbj, tkn, zrn
+xxz -> zfm, kft, hjb, szh
+jvk -> zfm, nmr, cln, nmj
+xsz -> pqm, qfp, mtl, lnb
+pqm -> xsz, lzr, ctz, fvk, bfx
+qfp -> xsz, vpk, hkn, mlp, tbl
+mtl -> xsz, mkv, frk, crp
+cbh -> nbh, ccn, gcf, gjt, gmp
+gcf -> cbh, jqg, rcr, vlp
+fpz -> gfr, hnz, dlq, cmq
+gfr -> fpz, dkh, vcn, jgr
+dlq -> fpz, zts, jrt, lfs
+bsx -> kmq, hfx, nbv, xbs
+dsr -> rfm, pck, cqn, zmg, rgn
+dmb -> ljl, knr, cxz, jcc, gqv
+knr -> dmb, jrs, jjx, mxs
+cxz -> dmb, chj, tpt, bqm
+jcc -> dmb, mns, pcg, xhf
+lnq -> klm, szx, lbd, pjv
+fqk -> cfj, lvt, sdb, xdv
+cfj -> fqk, krf, zrb, szh
+qhl -> btg, spc, nzb, dvq
+kbq -> dvs, jvr, stq, kgg, btz, jzv
+bch -> zff, dxq, sct, ddv
+jkk -> vpk, ffq, pdb, gcd
+vpk -> jkk, frm, tmk, qfp, drv
+pdb -> jkk, ftq, xgb, tjt
+gcd -> jkk, nzq, smp, qbv
+cvh -> szh, zzr, fql, fbp
+szh -> cvh, ngc, xdr, xxz, cfj, kpj
+zzr -> cvh, rcg, xzz, mmf, mkr
+fbp -> cvh, bbr, php, jrn
+jpp -> vhs, css, msc, rcm
+cgr -> kgk, xbm, jgr, vqx, cfs
+kgk -> cgr, njr, szx, mbk
+jgr -> cgr, gfr, dqq, cfs
+tql -> qzf, zsh, xms, xrv, xtc
+qzf -> tql, nbg, dvs, njh
+xms -> tql, kbt, zpb, ckq
+xsg -> xkq, pxt, vlp, hmx
+xkq -> xsg, bjl, cnj, hts, rcm
+vlp -> xsg, zvn, gcf, spb
+blb -> fkt, jrf, lfn, cmq, bqf
+jrf -> blb, mdk, kkt, lkb
+xdr -> mjr, bxx, kft, szh, djq
+ztg -> vzc, thp, xsn, mpq, ffq
+hlj -> jcs, rzk, gbr, rjc
+rzk -> hlj, nxx, stb, lkl
+gbr -> hlj, jgc, gfl, zqp, stp
+tlt -> kxm, rpz, gff, jft
+kxm -> tlt, ghz, mjr, gjc
+rpz -> tlt, bhv, vcs, xgx, mng
+lxs -> stp, bdt, mtb, ngn
+stp -> lxs, pxt, jxg, gbr
+bdt -> lxs, hgc, hjg, dqn
+mtb -> lxs, xbl, mfz, xnp
+dcs -> ssn, zkh, shh, qvf, fgn
+stq -> zdx, fpj, kbq, fgn
+sjs -> ltv, kjr, xfk, ftx
+phq -> lbs, qpb, pds, jzz
+dbn -> qpb, ckq, dqj, lkb
+mdh -> tbj, lhd, ktt, rcr, jnl
+rcr -> mdh, tpn, hfx, gcf
+jnl -> mdh, kgf, css, tvx
+pck -> dsr, fdp, mzb, bdq
+bdq -> pck, rbg, bsk, lbg
+ttx -> qvb, kcs, gpf, vkr
+qvb -> ttx, dzk, dpf, nbp
+kcs -> ttx, fql, mld, vpl, clb
+gpf -> ttx, smr, vpl, hck, djq
+ppz -> zkm, lcj, snm, mnq
+zkm -> ppz, cph, ssc, mcm, bjb
+snm -> ppz, lnh, jsz, mhs, lpd
+zpb -> lzr, xms, fpj, frr, krj
+rvd -> nqs, dcm, ftg, pmm, brj
+svv -> zff, jnm, qkl, bvs
+mkt -> vxg, lqk, pjq, hxt
+hxt -> mkt, skk, cgq, fph
+cqd -> mzq, ctg, dkb, mqd
+mzq -> cqd, krl, hjl, dkb
+mqd -> cqd, xsl, plj, dtg, rmx, tcc
+lfn -> blb, vzc, klh, ngz
+mhs -> dnz, hzs, snm, lqp, mnq
+ksx -> dnz, tnd, brp, fjc, lxd
+bmm -> jzf, ptc, nnd, tzv
+jzf -> bmm, gmp, xzb, jbr
+rph -> mdk, tdj, nlb, sql
+nlb -> rph, dzc, rbd, skd, lnl
+sql -> rph, hnm, bfx, krj
+fnp -> smr, cqg, hpx, bjl, slk, mgf
+cxf -> pgs, rlk, qvc, mrg
+thz -> lbd, ghm, hcc, nhz, bhp
+hcc -> thz, qdp, vrk, pcr, fvk
+vnd -> zsh, sdj, jmd, vvf
+sgn -> zsh, qbm, mbh, tgl, ghq
+pcr -> bfq, hcc, fpj, nhd
+khd -> chs, ghs, fkc, grf
+rhx -> vnq, vbq, rlq, rpn
+vbq -> rhx, xbc, crp, lmj
+rlq -> rhx, lhf, rqp, sth
+tpn -> pqb, bxc, nmj, rcr
+nmj -> tpn, pch, slk, jvk
+tpb -> xsl, mvg, rgs, htq, gkr
+bhz -> ffd, fkt, mns, xrz
+zdn -> mtf, lqj, xfc, jgs
+lqj -> zdn, ltl, clr, tcc
+bbr -> fql, fbp, grg, jgj
+spz -> nqb, ptt, grg, mls
+nqb -> spz, fnn, scs, mgf, kdp
+phs -> ftr, hdq, lbb, zhx, cpj
+zfb -> qgv, nxg, jzv, jhq
+nxg -> zfb, dcx, rxj, lmd
+jzv -> zfb, htx, gtp, kbq, frr
+jhq -> zfb, hhf, vnq, ckq
+qkt -> qgv, lsk, dxq, frc, brt
+flb -> zfm, ptt, lmb, hrg, clf
+lmb -> flb, kxv, hfz, jrr, vnn
+clf -> flb, rcm, tkn, clb
+hnq -> chh, trs, fhk, lpv
+bxx -> jrr, mmf, xdr, vcs, spb
+jrr -> bxx, gxs, lmb, snf, llk
+vcs -> bxx, rpz, mhd, nrz
+dzk -> qvb, ncc, dvk, rkl, ptc
+rkl -> dzk, ksf, zll, spd
+qnd -> mcq, dlg, jcs, trs, fph
+zkh -> cqp, dcs, snq, bvs, gqj
+snq -> zkh, cbz, dhs, cpn
+mvg -> fml, tmq, gjt, tpb, vpm
+vpm -> mvg, bfj, zfh, thr
+zxr -> ljp, ppq, lnt, kzn
+qvc -> zlg, cxf, fgj, dxx, skp
+nhf -> glx, szl, vcg, rhd
+dcx -> zkc, nxg, cpp, slx
+zkc -> dcx, cpp, rpk, cbb, bdj, sng
+cpp -> dcx, zvx, zkc, rpk
+slx -> dcx, nnf, clq, khp, lbs
+gqr -> thr, vjt, jgp, fkf
+jgp -> gqr, zdd, vnv, sdr, zlz
+gtg -> ffp, jfs, xbl, tnf
+ffp -> gtg, gkn, pbx, hdt
+llx -> dxq, xqb, fpj, zpn
+ggv -> xks, tjz, rcn, nlh
+dzc -> tqv, nlb, gxv, fkt
+tqv -> dzc, jgx, vss, krj
+gxv -> dzc, fhx, hbv, qzb, cvs
+trs -> qnd, ngr, bpv, hnq
+ngr -> trs, jdm, stb, hkf
+bpv -> trs, fjp, kgf, tkn, gnl, tvq
+zcn -> mgv, lht, lrt, kdr, cfs
+lrt -> zcn, dnr, mns, vnx
+grd -> lhf, llt, njn, rvl
+dlt -> bbt, njx, smp, fqs
+bbt -> dlt, fdp, bdj, ccx
+njx -> dlt, plj, hnz, hsr
+smp -> dlt, xlk, hnf, gcd
+trb -> jgh, nzb, mng, zvn, tvx
+tkv -> mxf, jdc, zts, sdj
+mqq -> qns, mjh, pxt, bpl
+qns -> mqq, xnz, zbt, mjs, djn
+mjh -> mqq, fhl, lhg, ndg, rrs
+txn -> htm, jlt, fjd, lqp
+ngc -> szh, rrs, thd, npd, jgh, ksd
+rrs -> ngc, ccn, mjh, bbl
+thd -> ngc, jzc, lkl, xxq
+dvb -> hck, jzh, mql, dzb, xgx
+hck -> dvb, rnv, vhs, gpf
+llt -> grd, cht, jgv, skd, kjp
+skd -> llt, hbv, nlb, gdc
+njn -> sqx, vkp, grd, kxt, ndq
+vkp -> njn, mhc, xxc, qbq
+qqh -> ngz, fjj, sng, xbc
+ntm -> hgj, kxt, hzl, xbj
+qjp -> zcm, fjz, hlk, jrx, bjb
+kqj -> dtg, rhd, pbg, xtm
+rhd -> kqj, fsg, qpb, nhf, klm
+grg -> spz, xdv, bbr, pgm
+zts -> tkv, zff, dlq, bqm, ljk, xfc
+bqm -> zts, zgf, cxz, bjq
+dnr -> lrt, bvs, fgb, gdc
+bdj -> bbt, xdh, hfd, zkc
+krl -> hxm, mzq, hkg, bjq
+mdl -> bbf, vpp, knt, pkk, nns, ggt, gds
+tkg -> hdx, qzx, gvl, jzz
+rch -> lbs, szl, pbr, mjb, mvn
+pbr -> rch, vpq, ggt, csq
+jdj -> tld, zfh, spc, gmm
+pjr -> qdh, knc, thg, mjx
+vgl -> msg, bpl, kbc, sgx
+nkn -> chp, jrs, mlp, sct
+chp -> nkn, frk, vgx, khq, kcb, gdc
+sct -> nkn, bch, srq, xmj
+nbz -> blp, jnd, gpq, xtf, nbt, czx
+frk -> mtl, chp, pbg, ckq
+pxp -> djq, nvp, qrv, zrb
+djq -> pxp, pjn, gpf, xdr
+zrb -> pxp, pld, vtl, cfj
+ggp -> mpf, zqr, fkq, nsl
+fkq -> ggp, hzz, gnv, fsg
+cph -> zkm, btn, kqc, bds, qrn
+czx -> fhl, hsb, nbz, jbr, zpq
+rlk -> xbm, fkc, cxf, vss
+xkd -> kft, zdd, lbn, zcq
+shg -> qrx, mmf, jxp, jrp
+rjj -> qrx, nvs, bmv, fqz
+xbs -> hzs, vls, rlh, bsx, kbc
+xqf -> ptc, srv, frg, ptt
+srv -> xqf, cbk, xcz, ddl, kdp
+stm -> bfl, snf, fxc, kbx, szc, jpj
+fxc -> stm, htq, gfl, hbj
+vgz -> prp, vbg, lzk, bcv, qzl, mpj
+vgx -> lrr, chp, mxz, sdj
+lrr -> vgx, xgb, mmj, zvx
+zjd -> ngz, qbd, cld, fbd
+kbx -> flc, fql, stm, dsl
+dsl -> kbx, vqn, xbg, jxx
+sth -> mdk, rlq, rfq, sbg
+gtx -> vtl, cls, lrj, vhq
+cls -> gtx, pld, skk, dqn, gxj
+lrj -> gtx, ktb, jpj, qzg
+jrx -> dhk, xzm, tdp, qjp, dxv
+jrt -> xnk, dlq, zzk, hnz
+xnk -> jrt, xkv, qcm, tpt
+zzk -> jrt, xfc, kzm, xqv
+hnt -> xsx, hzd, gcb, scr
+xsn -> lfc, ztg, qmq, rlr
+pxx -> qsf, gms, qkd, fxs
+qbv -> fpg, jml, snv, gcd
+rqc -> gtp, ppg, bfm, pcg
+gtp -> rqc, jzv, ngl, zbm
+dpf -> npd, qvb, hhc, gpq
+gpq -> dpf, nbz, jmx, nnd, ffb
+hdq -> fcp, phs, ccs, mph, gzl
+qzr -> rsz, jst, hfc, rpn
+zzp -> vls, nbh, srb, gxk
+rvj -> xlb, nhk, bpm, kcg
+kkg -> kmd, pqs, lnb, rnq, mpj, fdt
+mpj -> kkg, qlv, vgz, ngq
+hzz -> fkq, zxm, ghp, lsk, clr
+zxm -> hzz, rdk, tkp, xqh
+jtv -> fpg, hzl, nmc, cld
+gsv -> lpp, mtc, hfd, fpq
+hfd -> gsv, lfs, bdj, mbh, fdx
+xrm -> cfm, qvf, hkg, ccx
+gkb -> cfm, blh, tgl, gdc
+znl -> jfs, ppm, gkh, mpr
+jfs -> znl, gtg, xtf, vrn
+hfx -> qdh, bsx, rcr, zpq, kbj
+zpq -> hfx, rng, cfc, czx, sds
+jft -> qgh, tlt, qph, rcg
+slv -> xhp, tkp, pmm, pjj
+mmz -> kgx, hnr, mnz, zhx
+zzv -> khp, chs, rmx, czb
+khp -> zzv, zcc, vcn, xfz, slx, bdb
+cpz -> lbn, qbc, kkk, gjh
+pbg -> frk, mtc, kfj, fbs, rrn, hlm, kqj
+hlm -> pbg, fgj, shc, jgx, mcs
+skn -> jrn, vcr, btn, xcn, hhp, ncp
+jrn -> skn, mql, fbp, xpg
+vcr -> skn, gxk, fvj, qgp
+btn -> skn, cph, xgm, vmx
+qzx -> tkg, pqs, skz, lhn, hkn
+xfk -> pjv, sjs, lkf, mxs
+lkf -> xfk, kht, xkv, lbs, tjz
+vkr -> vkb, grv, ttx, tsm
+grv -> vkr, ltj, dvf, gjc
+ldq -> fzm, nrv, khn, zrj
+nxx -> rzk, ccs, hbk, clb
+hbk -> nxx, rnv, lbb, mjx
+clb -> nxx, kcs, hsb, clf
+mjn -> lcj, rgs, nmm, php
+bvs -> svv, dnr, sjt, lfs, zkh
+lfs -> bvs, dlq, hfd, xcd
+njr -> znd, kgk, lnb, zdr
+mmx -> fpt, zpf, cqg, ktd
+blh -> xqh, xnd, bkk, vdr, nzq, gkb
+vdr -> blh, jgx, xlk, mpf
+rjp -> vbg, njh, bcl, shj
+bcl -> rjp, hth, ffd, vnx, fbd
+vnx -> bhp, bcl, hxm, lrt
+cdb -> ktt, plh, lqt, plr
+xdh -> vgn, xjs, plk, dvj, bdj, qcm
+dvj -> xdh, pjk, zqr, xjs, bbh
+drv -> vpk, bvb, ctm, cld, bjm
+bjl -> xkq, bsq, nst, fnp
+pjk -> tst, dvj, tcc, rrk
+nns -> vvr, frl, mdl, xfz
+hzd -> bfl, lcz, hnt, bgd
+lcz -> hzd, jqg, zrn, bds
+sqk -> xzb, ltj, zrn, xzz
+krf -> fpp, sqb, xfr, cfj
+sdj -> vgx, vnd, tkv, rqp, qgx, bvb, tgl, zbq
+bvb -> sdj, drv, jgs, jfn
+tgl -> sdj, gkb, mbk, sgn, xqv, mvh
+qbr -> mxl, vvm, sbg, mch, lfc
+mxl -> qbr, zbm, khb, bsk, mrg, jfn
+mch -> qbr, dqj, knt, ftg, zxj
+lpv -> dqn, hnq, dvl, lmr, rgr
+srq -> sct, vfp, qpg, ntk, cnl
+hbj -> hzk, tmc, fxc, vkb, scl
+fgb -> qgd, vfp, ggz, dnr
+qlv -> jrs, mpj, dfh, rcn, blf
+kbj -> hfx, srd, nbt, xsb
+nbt -> kbj, nbz, ccz, scl
+gts -> lvn, mdd, jxx, gzd, hdt
+mpq -> jsl, zpn, ztg, xgb
+bbj -> lpz, lmj, cnl, plj
+lmj -> bbj, nbg, vbq, mxs
+tnd -> ksx, djn, lxd, bds
+jzz -> scf, dbm, phq, tkg, nkq
+rnm -> lpm, jmg, jps, nxz
+jps -> rnm, rnv, ccz, zlb, bjb, pzx
+cgq -> pxt, vnn, hxt, lrd
+xbg -> mph, zfh, dsl, spx
+xtc -> xzg, cmk, tql, kcg
+hqc -> gfp, sdh, jjf, khq
+jjf -> hqc, kjp, bnj, chj
+zbm -> rcn, dcm, mxl, qzc, gtp
+nrv -> lpz, vmf, xpl, ldq
+rnv -> jps, hck, hbk, jkj, vtc
+vtc -> rnv, dvq, lvn, mph
+ssc -> zcq, zkm, ksf, qqk
+zlq -> lvx, krs, xph, blx
+xph -> zlq, jbx, nbp, chl
+kjp -> lkb, llt, jjf, ssf
+lkb -> kjp, zdg, dbn, jrf, bbc
+dcm -> rvd, vfp, zbm, hfs
+rxj -> bcv, mhc, nxg, smm, plb
+bcv -> rxj, vpq, fpl, vgz
+mhc -> rxj, vkp, xcd, tns, ttv, ddv
+shc -> hlm, rdk, pgs, zpn
+xfc -> zzk, zts, kxh, zdn
+dhb -> chl, lsp, fjp, tkx
+ggt -> pbr, mtf, brt, mdl, dqj
+gzx -> qmn, ccj, dxs, zll, hmx, zbv
+mll -> qmn, gvj, kzc, qsf
+lsp -> dhb, ctp, ffb, fpt
+knd -> jsm, jmx, clj, xxq
+ktd -> jsm, mmx, lbb, btg, cln
+xnz -> jgc, gsm, qns, ftr
+jgc -> xnz, tld, vrq, gbr
+pql -> kvn, mld, spd, pqp
+ltj -> grv, rcj, sqb, sqk
+kdr -> dhs, djh, zcn, pmm, rgc
+pmm -> kdr, bqq, slv, rvd
+hzp -> bbl, lkl, tlr, vrq
+bbl -> hzp, szc, lxg, zlf, rrs
+vrq -> hzp, jjk, fjd, jgc, mqj
+nbp -> ftm, bgd, xph, qvb
+rbg -> bdq, vmf, lmz, bsk
+qbm -> sgn, bbf, vcz, mns
+ktb -> jbx, qph, lhq, lrj
+jbx -> ktb, rsk, kdv, jdn, xph, msc
+nkq -> mns, nsl, khb, jzz
+gvl -> tkg, jgx, crp, hgd
+fzt -> tsl, rng, qhs, vmx
+rng -> fzt, zpq, qgh, tbz
+pfj -> pjn, bsq, psg, kmq
+bsq -> pfj, ncc, rfz, bjl, ddl, pqj, kgv
+psg -> pfj, spx, kkk, qrn
+kfd -> gnj, jst, xxc, zpn, jtx
+jgs -> bvb, zdn, hnf, tqc, plb
+xmh -> mjp, szc, zlf, mpr
+css -> jnl, jpp, zjs, krk, rkr
+rkr -> css, sds, kjd, vqp
+zll -> llk, rkl, gzx, rpg
+frl -> nns, srj, bpm, ngq
+mhd -> gcl, ccn, pxt, stf, vcs
+lzk -> xjg, vgz, zjx, lhz
+lhz -> lzk, dkb, bpp, pgq
+fzq -> rdr, dvf, cqk, pjq
+cqk -> fzq, sgl, cpj, bjd, bxc
+qvf -> rjf, dbm, dcs, btz, xrm
+ftg -> rvd, szx, pkj, mch
+hdm -> xqb, xlk, mzb, bbh
+fpl -> bcv, ptl, rkp, vcn
+bnj -> fmv, knf, jjf, jrs, xks, grf
+hdf -> mjb, gnv, gzv, rcb
+qlm -> kzm, sxn, bqf, mxs
+mld -> kcs, pql, nrz, krk
+nrz -> mld, zsz, vcs, hkf
+bsz -> srj, jml, vjm, vvf
+fvk -> pqm, kvt, hcc, gkm
+hkn -> qfp, zff, qzx, prp
+jgj -> chh, mcq, bbr, vmm
+gxs -> jrr, plv, cxx, vjt, kbc
+plv -> gxs, srb, lnv, rxt
+mvh -> tgl, jrs, svd, mrg
+cmq -> blb, zpg, bfq, fpz, ncs
+fxl -> sdb, qfs, jzh, bds, jlt, kdp
+bds -> fxl, lcz, tnd, cph
+kdp -> fxl, xtf, srv, nqb
+zgf -> nhx, kzm, bqm, lnm
+lnm -> zgf, rqd, fnj, rlr
+zrj -> rpk, bzc, lmd, ldq
+cbq -> hnm, cnk, vvf, lmz, rxc, ttj
+vcn -> gfr, sxn, fpl, khp
+nnf -> lnb, slx, chj, bbc
+sgx -> qdh, hnr, scr, vgl
+sxn -> vcn, qlm, jjx, kcb, fgn
+cbk -> hxs, srv, dzb, qfs
+cnk -> knt, plc, gjz, cbq, ptl
+knt -> cnk, mdl, clq, mch
+plc -> cnk, ppg, mkv, lrq, prm
+kph -> brc, ztp, pvr, mjm
+pvr -> kph, kfq, vpp, skt, xtt
+mjm -> kph, pkl, knf, prm
+vqn -> xjb, xpt, zxd, dsl, vxg, gzd, lnh
+xpt -> vqn, clj, fml, fmm, fvj
+vhq -> gtx, rct, hrx, qnh, tbj
+rcg -> jft, hrx, trr, zzr, jmg
+zrn -> lcz, sqk, mpd, zjs, tsm
+rsk -> jbx, srb, kgv, vqp
+qcm -> xnk, rxx, gxd, xxl, xdh
+xxl -> qcm, fmv, xqh, xnd
+cnx -> xcx, pjb, blm, bbn
+pld -> zrb, xgg, srp, gcb, hmx, jzh, cls
+mft -> nlr, kpv, qgp, zlf
+gnv -> rxc, pds, hdf, fkq, mtm
+pkk -> mdl, ppg, gvt, tjt
+bbh -> hdm, dvj, vjm, mpx, zbq
+mpx -> bbh, zhg, rmx, nvz
+ltl -> lqj, dtg, ttj, pdq, vgj
+xrz -> jml, zfz, dxc, bhz
+srb -> plv, rsk, qts, sdr, zzp
+sdr -> srb, zcm, jgp, mls
+fmm -> spd, pdr, nxr, xpt
+ppq -> prp, lbs, zxr, nhx
+grt -> xjs, nxv, pdq, zjp
+gxk -> lhg, rcj, vcr, gnm, kgz, zzp, qmm
+dqq -> lbf, bhr, jgr, rcb
+bhr -> dqq, dmp, tqc, xhp
+svd -> mvh, shh, tbl, vxf
+czb -> zzv, fcn, blm, lhp
+cfc -> kgn, pgm, vsr, lgp, zpq
+rqd -> hgj, jjx, lnm, nfk
+cld -> vqr, tjt, zjd, jtv, drv
+rkp -> fpl, hdx, ltv, khb, rrk, mvv
+slk -> nmj, krs, fnp, fhq, kgv
+fbd -> bcl, qdl, rrg, zjd, jsl
+rgs -> sbs, bmv, mjn, jxl, tpb
+htq -> fml, jzc, fxc, tpb, jrp
+bjb -> jps, zkm, pnn, rfk, qjp
+jxl -> rgs, rfk, jxx, dqt
+gnk -> jlt, mhz, qgp, gkr
+rfd -> znj, fsg, hth, xbj
+xbj -> rfd, ntm, mjb, crp
+lsf -> ffh, klk, rkt, djn
+bqf -> blb, qlm, ghs, ghq
+ghs -> bqf, khd, kqg, cvs
+khq -> hqc, thp, chp, ssh
+plj -> bbj, mqd, zxj, njx
+fnh -> hhp, fhl, mls, lrp
+pqp -> bqc, pql, mjp, tvf
+tvf -> pqp, fcp, qrv, gbj
+qbc -> cpz, spc, rtj, fjc
+spc -> qbc, mgm, jdj, qrv, qhl
+xbc -> vbq, zrf, qqh, jts
+xzz -> sqk, zzr, dpc, ndg, rst
+rst -> xzz, lrd, dvk, pqb
+jbr -> lqt, xjd, gkh, czx, jzf
+mng -> stf, rpz, fhk, trb
+vqx -> rqp, gls, cgr, vnb
+msc -> jbx, xdl, lqp, jpp, dhc, csp
+lqp -> msc, csg, mhs, txn
+nvs -> rxt, scx, nrp, rjj
+sbt -> prm, chm, xhx, rbd, cvs
+crp -> lbg, mtl, vbq, xbj, gvl
+lbg -> crp, mrq, zkk, bbf, bdq, xhf
+tnf -> gcb, pgg, scs, gtg, dkc
+fvj -> xdl, vcr, rct, ksd, xpt
+rpg -> psz, nrp, zll, nzb
+zfh -> frx, xbg, jdj, vpm, qmm
+xcz -> jdm, srv, tbj, cln
+nst -> xgg, nmr, bjl, xsb
+ckq -> frk, qgd, nnm, xms, jhq, dbn
+kcb -> sxn, rfq, zxj, chp
+bpm -> qjh, frl, ncs, rvj
+hnr -> sgx, ftm, mmz, ptv, cpj
+bpq -> bqq, ptl, glx, hps
+ndd -> ggl, kxv, fsk, lhd
+szc -> stm, xmh, vrn, bbl, csp
+vrn -> szc, lvx, mqj, nvp, qhm, jfs
+rpn -> lfc, rhx, ppg, qzr
+lxg -> bbl, rxz, hsb, nxr
+mcm -> jsz, zkm, fjp, qzn
+fjp -> mcm, bpv, hkf, thr, dhb, xqt
+sgl -> cqk, kgt, xmg, zlz
+jvr -> xzr, kbq, qzl, sml
+nbg -> qzf, hvg, fgh, hvk, lmj
+hgd -> ngq, qps, vvr, brj, gvl
+brj -> hgd, rvd, ttv, bjq
+htx -> zhg, jzv, tbl, rfj
+zhg -> htx, mpx, plk, dsd
+lrd -> rst, qzn, ffh, qpg, cgq
+fpj -> clr, zpb, stq, llx, pcr
+xxq -> lzt, bfl, lxd, knd, thd
+lxd -> xxq, cch, mql, tnd, ksx
+mgm -> hpx, spc, lhq, vqp
+mls -> sdr, fnh, spz, zbv
+hsb -> lxg, clb, qrx, krk, czx
+ksd -> fvj, ngc, pzx, bzm
+nmm -> hnk, hhc, mjn, mjc, kqc
+zbq -> bbh, nsl, sdj, bfx
+nsl -> zbq, ggp, nkq, gqj
+mtm -> tgs, kxt, blf, bjm, ntl, hxb, gnv
+blf -> mtm, vkd, cvg, fbt, qlv
+bjm -> mtm, qkp, lph, drv, tht
+bzc -> cfg, qdp, ssh, zrj
+lpd -> snm, kpj, mds, kvn
+kpj -> lpd, dxs, rzf, nnk, szh
+brp -> xzm, ksx, tsl, lhq, qph
+bsk -> rbg, kvt, mxl, bdq, bpp
+scr -> mvr, kkk, sgx, hnt
+kkk -> scr, cpz, nnb, hrx, psg
+qzl -> vgz, klh, jvr, lrq
+rfq -> chj, kcb, sth, qkp
+mnq -> mhs, ppz, nmr, ddl
+xtf -> ghz, kdp, nbz, jfs
+ptv -> jxp, dpc, hnr, tkx
+tkx -> ptv, rlh, dhb, xqt
+vvf -> bsz, tkp, cbq, vnd
+nhd -> pcr, mpf, zpg, xfz
+mqj -> vrn, drp, vrq, kdq
+hts -> xmg, xkq, dtz, dqt
+xfz -> khp, nhd, nns, xzr
+zlf -> mft, bbl, dqg, xmh, nlr
+jfd -> jqg, sds, rkt, xzp
+mjs -> qns, dtz, zcq, jcs
+xgb -> mpq, pdb, lrr, zsq
+php -> mjn, rlv, fbp, vkb, gjt
+pcs -> mvc, rfj, vvr, hbv
+pbx -> jkq, ffp, kfs, dzb, kps
+plb -> rxj, jgs, dmg, tps, ddv
+tmd -> skp, vzc, bfm, mkv
+lmd -> qjh, zrj, ctm, nxg, dsd
+dqj -> mch, ggt, szl, dbn, cpn
+xtm -> kqj, qkp, mtf, dkd, tps
+qkp -> xtm, bjm, qpg, rfq
+tsp -> fnn, cnj, csp, dlg
+lcf -> tzl, vjm, khn, lhn, ccx
+khn -> lcf, ldq, plk, tkp
+gzv -> zmg, hdf, bkk, mxf
+fgn -> sxn, dcs, kxh, slb, stq
+vss -> qdl, tqv, fdp, qln, rlk
+dxv -> zmk, jkq, jkj, jrx, gjc, jdn
+scs -> tnf, pkq, ndp, nqb
+djn -> vrt, tnd, lsf, qns
+bbc -> rrn, nnf, zxj, lkb
+rcb -> tbl, dqq, hdf, qcq, srj
+qxx -> rlv, rxz, lhd, fph
+mlt -> nqt, qbg, cth, ppg
+fjc -> qbc, ksx, vrt, dlg
+zhx -> phs, mjp, rfk, mmz, tdp
+rbd -> nlb, fmv, sbt, bdb, ccx
+bdb -> rbd, hfc, khp, tns
+rcm -> hzk, jpp, xkq, clf
+tpt -> sgt, xnk, kkt, cxz
+gqj -> nsl, dhm, vbg, zkh, xkv
+gkh -> znl, jbr, rff, vrt, xgf, htm, jkq
+ftx -> xcs, sjs, gxd, ttj
+mrg -> jph, vpp, cxf, mxl, kvc, mvh
+cpj -> hnr, phs, cqk, rgr
+cpf -> plt, jrs, fgj, qgv
+mpr -> ptp, znl, xmh, jxp
+ngl -> gtp, zfz, xbv, qlg
+zlz -> jgp, nqr, htm, sgl
+jtx -> pgf, vkl, kfd, pxg
+xtt -> mgv, cht, pvr, rfm
+rgc -> hqs, lbs, kdr, pvn
+qqk -> xnp, ssc, jjk, xvp
+zxj -> kcb, mch, crt, bbc, plj
+ghq -> gds, bqf, fht, sgn
+gds -> ghq, hzl, mdl, dtf
+tcc -> mqd, pjk, mbk, lqj
+cfs -> fmc, jgr, zcn, cgr, vvx
+qkd -> zdd, pxx, lld, lvv, ppm
+hkg -> vcg, xrm, krl, sng
+ccx -> lcf, rxp, bbt, xrm, rbd
+lmr -> ffb, gjh, lpv, gkk
+qmm -> rdr, gxk, kcf, nxz, zfh
+zvn -> vlp, dfj, trb, fsh
+cvs -> gkm, pjv, gxv, sbt, ghs
+gdc -> chp, gkb, dnr, skd, xqb
+hdt -> klk, gts, zcx, ffp, hlk
+ndp -> scs, plp, lpm, nnb
+krj -> zpb, tqv, tmk, xzg, sql
+jqc -> xts, ndg, bfj, gxq
+ddv -> bch, plb, mhc, tgs
+fxs -> sgf, pxx, gzl, fjd
+dqt -> jxl, lnh, rxt, hts
+qrn -> ncp, psg, ccj, cph
+fph -> qnd, scl, qxx, kjd, hxt
+jts -> sfd, fpq, gsd, xbc
+kgv -> bsq, rsk, pnz, slk
+hps -> vzv, bpq, nvf, nxv
+pjj -> hzb, sjt, rrc, slv
+tsm -> xjb, xcn, kvn, vkr, zrn
+gkr -> gnk, jvt, hjq, tpb
+rlr -> lnm, vzv, xsn, dxc
+tvx -> jnl, scx, pch, trb
+bjq -> krl, ssn, bqm, brj
+dfp -> vct, ctg, rjl, sdn
+mvv -> tgx, kqg, rkp, jdc
+jhg -> mxf, zff, jmd, cqp
+func: 'find_components' args: [(), {}] took: 0.0110 sec
+[1496]
+
+
+
+
+}

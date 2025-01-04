@@ -1,0 +1,5 @@
+We need to find the number of integer solutions to the equation
+	t^2 - t_0 t + d \le 0
+where t_0 is the given time and d the distance
+
+For that we find the zeros of the polynomial on the left and we just have to keep track of where the first and last integer solutions are.

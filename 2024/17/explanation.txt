@@ -1,0 +1,24 @@
+The algorithm takes the last three bits of A, xors them by the (last 3 bits of A without flip(A%8) bits) and outputs that. So we need to reconstruct the program sequence (going backwards from the last place)
+We always try the lower values in the table first (to get the minimal number). Maybe we could have some problems if there are multiple possibilites, could be that we'd have to keep track of that.
+
+2,4,1,7,7,5,1,7,4,6,0,3,5,5,3,0
+
+xyz....000 - xyz xor 000 = xyz
+.xyz...001 - xyz xor 001 = xy(-z)
+..xyz..010 - xyz xor 010 = x(-y)z
+...xyz.011 - xyz xor 011 = x(-y)(-z)
+....xyz100 - xyz xor 100 = (-x)yz
+.....xy101 - xy1 xor 101 = (-x)y0
+......x110 - x11 xor 110 = (-x)01
+.......111 - 111 xor 111 = 0
+
+0 	3	5	5	3	0	6	4	7	1	5	7	7	1	4	2
+
+111 100	010	001	001	001	101	000	011	110	110	000	001	110	011	011
+
+111 100	010	001	001	001	101	000	011	110	110	001
+111 100	010	001	001	001	101	000	011	110	110	010
+
+111 100	010	001	011	001	101	000	011	001	100	
+111 100	010	001	011	001	101	000	011	110	010	
+111 100	010	001	011	001	101	000	011	110	110	

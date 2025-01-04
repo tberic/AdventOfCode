@@ -1,0 +1,15 @@
+cqk,fph,gds,jrs,wrk,z15,z21,z34
+
+Explanation: visual inspection of the diagram shows that the following gates have their outputs switched
+
+mnh OR snp -> z15
+ccp XOR hhw -> fph
+
+x21 AND y21 -> z21
+nsp XOR tqh -> gds
+
+y30 XOR x30 -> jrs
+y30 AND x30 -> wrk
+
+ksm XOR fcv -> cqk
+ksm AND fcv -> z34

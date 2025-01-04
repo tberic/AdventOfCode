@@ -1,0 +1,18 @@
+<vA<AA>>^A	vAA<^A>A	<v<A>>^A	vA^A	<vA>^A	<v<A>^A>A	A	vA^A	<v<A>A>^A	A	A	vA<^A>A
+v<<A		>>^A		<A			>A		vA		<^A			A	>A		<vA			A	A	>^A
+<			A			^			A		>		^			^	A		v			v	v	A
+			0						2								9							A
+			
+Moramo odrediti prijelaze s tipke na tipku za svaki pad, ali za prva dva uvijek idemo od A
+1. uvijek završi s A
+2. uvijek završi s A
+3. ostane na bilo kojoj tipki
+
+5*5 kombinacija
+
+	<	>	v	^	A
+<	1	5	4	7	8
+>	9	1	8	9	4
+v	8	4	1	4	7
+^	9	7	6	1	4
+A	10	6	9	8	1
